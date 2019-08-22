@@ -1,4 +1,4 @@
-# Terms and Conditions – DLTX
+# Terms and Conditions – DLTX Pty Ltd
 We’ve tried to make our terms and conditions as straightforward and fair as possible. Let us know if you have any questions or need any detail clarified. It’s important that you seek your own legal advice if you have any doubt about where you stand or your obligations.
 ## Acceptance
 1. DLTX will perform the Services described in the accompanying proposal, tender, quotation, or email to the you (the Proposal), which together with these terms and conditions forms an agreement between DLTX and you (the Agreement).
