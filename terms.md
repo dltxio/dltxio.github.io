@@ -1,5 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
 # Terms and Conditions – DLTX Pty Ltd
 We’ve tried to make our terms and conditions as straightforward and fair as possible. Let us know if you have any questions or need any detail clarified. It’s important that you seek your own legal advice if you have any doubt about where you stand or your obligations.
 ## Acceptance
@@ -90,8 +88,8 @@ third party for any loss or damage whatsoever which arises under or in connectio
 legislation in force in Australia or any law of a foreign jurisdiction applicable to the Services, including regulations, by-laws, declarations, ministerial directions and other subordinate legislation; common law; and government agency requirement or authorisation (including conditions in respect of any authorisation).
 (i) Personal Information has the meaning given to that term in section 6 Privacy Act 1988 (Cth).
 (j) Services means the services described in the Proposal.
------BEGIN PGP SIGNATURE-----
 
+-----BEGIN PGP SIGNATURE-----
 iQIzBAEBCAAdFiEE8v5cbX7Db6yNX5zDBJgfwPnvGT8FAl1i/PcACgkQBJgfwPnv
 GT+oTQ/+Mr4wGpszqfZEIMaOBDf/9vGIspg3d1zhNSkE4U/ynE0K9swdoDHtGcpO
 1jRbcHVqqbTCu3Z2ELeKD8Vbe8VhOLRyArkcWN/IEJJTYqzswbBsBMlFUJXhQeqo
