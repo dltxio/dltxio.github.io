@@ -75,18 +75,15 @@ third party for any loss or damage whatsoever which arises under or in connectio
 39. To the extent any Personal Information is collected by DLTX in the performance of the Services, DLTX will collect, hold, and use that Personal Information in accordance with DLTX’s Privacy Policy (available on request).
 ## Definitions
 40. In this Agreement:
-(a) Associated Entities has the meaning given to that term in section
-            50AAA Corporations Act 2001 (Cth).
-(b) DLTX means Bitcoin Brisbane Pty Ltd (ABN 71 169 525 811) T/A DLTX.
+(a) Associated Entities has the meaning given to that term in section 50AAA Corporations Act 2001 (Cth).
+(b) DLTX means DLTX Pty Ltd (ABN 24 634 696 978).
 (c) DLTX IP means all intellectual property and proprietary rights
-(whether registered or unregistered) owned or licenced by Bitcoin Brisbane prior to performance of the Services, developed by DLTX in performance of the Services, or developed by DLTX outside of, or after, performance of the Services, and without limitation includes business names, trade or service marks, any right to have information
-
-(including Confidential Information) kept confidential, patents, patent applications, drawings, discoveries, inventions, improvements, trade secrets, technical data, formulae, databases, know-how, logos, designs, design rights, copyright and similar industrial or intellectual property rights.
+(whether registered or unregistered) owned or licenced by DLTX prior to performance of the Services, developed by DLTX in performance of the Services, or developed by DLTX outside of, or after, performance of the Services, and without limitation includes business names, trade or service marks, any right to have information (including Confidential Information) kept confidential, patents, patent applications, drawings, discoveries, inventions, improvements, trade secrets, technical data, formulae, databases, know-how, logos, designs, design rights, copyright and similar industrial or intellectual property rights.
 (d) Confidential Information means all information in relation to a disclosing party, its business, operations, products, processes, customers, suppliers or contractors which is or might reasonably be considered by the disclosing party to be confidential, including all technical data, intellectual property rights, formulae, specifications, diagrams, plans, drawings, sketches, designs, business plans and reports, business methods and systems, business records, production information, unpublished financial accounts and reports, discount and supply agreements, subcontractor lists, customer lists, except to the extent that such information is lawfully in the public domain.
 (e) Fees means the fees payable by you to Bitcoin Brisbane as outlined in the Proposal for the Services.
 (f) Indirect Loss means losses which do not arise naturally (that is, according to the usual course of things) from the relevant breach of this Agreement, including but not limited to loss of profits or revenue, loss of goodwill or reputation, loss of anticipated benefits or savings, loss of any prospect or business opportunity, loss of production or other business interruption loss or corruption of data or wasted management or administrative time.
 (g) Initial Deposit means the amount specified in the Proposal.
-(h) Law means any Commonwealth, State, Territory or local government
+(h) Law means any Commonwealth, State, Territory or local government.
 legislation in force in Australia or any law of a foreign jurisdiction applicable to the Services, including regulations, by-laws, declarations, ministerial directions and other subordinate legislation; common law; and government agency requirement or authorisation (including conditions in respect of any authorisation).
 (i) Personal Information has the meaning given to that term in section 6 Privacy Act 1988 (Cth).
 (j) Services means the services described in the Proposal.
