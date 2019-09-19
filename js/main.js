@@ -222,6 +222,58 @@
 		}
 	};
 
+	var legalAnimate = function() {
+
+		var legal = $('#fh5co-legal');
+		if ( legal.length > 0 ) {	
+
+			legal.waypoint( function( direction ) {
+										
+				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+
+
+					setTimeout(function() {
+						legal.find('.to-animate').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('fadeInUp animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 200);
+
+					setTimeout(function() {
+						legal.find('.to-animate-2').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('bounceIn animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 700);
+
+					setTimeout(function() {
+						legal.find('.to-animate-3').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('fadeInRight animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 1000);
+
+					
+					$(this.element).addClass('animated');
+						
+				}
+			} , { offset: '80%' } );
+
+		}
+	};
+
 	var gettingStartedAnimate = function() {
 		var started = $('.getting-started-1');
 		if ( started.length > 0 ) {	
@@ -452,6 +504,7 @@
 		// Animations
 		homeAnimate();
 		exploreAnimate();
+		legalAnimate();
 		gettingStartedAnimate();
 		pricingAnimate();
 		servicesAnimate();
