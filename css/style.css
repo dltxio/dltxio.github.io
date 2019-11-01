@@ -20,7 +20,8 @@ body {
   background: #000;
   height: 100%;
   position: relative;
-  padding: 20px;
+  /* top right bottom left */
+  padding: 0px 20px 0px 20px;
 }
 
 a {
@@ -101,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-header #navbar li a {
   font-family: "Inconsolata", Arial, sans-serif;
   background: rgba(255, 255, 255, 0.2);
-  position: relative;
+  position: sticky;
   font-size: 16px;
   font-weight: 400;
   margin: 0 auto;
@@ -245,6 +246,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0px;
     padding-right: 0px;
     padding-left: 0px;
+    height: 667px;
   }
 }
 

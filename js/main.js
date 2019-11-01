@@ -42,6 +42,7 @@
 		if ( !isMobile.any() ) {
 			$('.js-fullheight').css('height', $(window).height());
 			$(window).resize(function(){
+				console.log("window resized"),
 				$('.js-fullheight').css('height', $(window).height());
 			});
 		}
