@@ -1,6 +1,6 @@
 # Junior Developer/Production Assistant 
 
-DLTX is a software house with a focus on dApps and Blockchain Technologies. We require a casual developer 4-8 hours/week in the Brisbane CBD. The role entails assisting the CTO with production tasks. It is a great opportunity to work with one of the country's leading DLT devs on real-world projects. 
+DLTX is a software house with a focus on dApps and Blockchain Technologies. We require a casual developer 4-8 hours/week in the Brisbane CBD. The role entails assisting the CTO and other devs with production tasks. It is a great opportunity to work with one of the country's leading DLT devs on real-world projects. 
  
 ## Skills: 
 * Dot net  
