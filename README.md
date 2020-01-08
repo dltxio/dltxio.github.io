@@ -15,3 +15,6 @@ Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
   "signer": "keepkey"
 }
 ```
+
+PGP key `F6FBA7D5` can be found in MIT or 
+
