@@ -16,5 +16,4 @@ Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 }
 ```
 
-PGP key `F6FBA7D5` can be found in MIT or 
-
+PGP key `F6FBA7D5` can be found in MIT or `/assets/pgp.txt`
