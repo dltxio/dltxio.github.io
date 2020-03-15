@@ -13,10 +13,11 @@
 ## Development culture
 * Understand done means in production.
 * Make PRs, not complaints.  "Rants" are allowed, but will cost $5.
-* Tabs not spaces.
+* Tabs not spaces.  (See prettier)
 * Complete the sprint.
 * Raise problems early.
 * Pull not push.  Select an issue or task that best fits your capabilities.
+* Give back to Open Source https://opencollective.com/
 
 ## Tools
 * Prettier (set template)
