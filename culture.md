@@ -17,3 +17,15 @@
 * Complete the sprint.
 * Raise problems early.
 * Pull not push.  Select an issue or task that best fits your capabilities.
+
+## Tools
+* Prettier (set template)
+
+## Standards
+
+## Frameworks / Stack
+* NodeJS
+* CircleCI
+* GitHub
+* Jira
+* Axio
