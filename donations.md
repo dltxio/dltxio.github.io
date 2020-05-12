@@ -3,5 +3,8 @@
 We have contributed to 
 - Electronic Frontier Foundation
 - React Native Elements https://opencollective.com/react-native-elements
+- Prettier
 
-https://opencollective.com/dltxio
+## Open collective
+
+Our badges can be found at https://opencollective.com/dltxio
