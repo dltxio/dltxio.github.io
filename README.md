@@ -1,4 +1,4 @@
-## Offical website for DLTX Pty Ltd
+## Offical website for DLTx Pty Ltd
 
 We take security seriously.  Contracts will be signed from `0xdb85aa4ad3afecaaecd9cbbe63c46e461e2ecf2f`
 
