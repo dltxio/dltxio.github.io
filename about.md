@@ -1,3 +1,3 @@
 # About
 
-DLTx are Brisbne based, botquie blockchain company focusing on providing blockchain agnostic to suit business challanges.  
+DLTx are Brisbne based, boutique blockchain company focusing on providing blockchain agnostic solutions to suit business challanges.  
