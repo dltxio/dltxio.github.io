@@ -119,13 +119,13 @@ It is estimated that creation of the User Stories in addition to a two-week spri
 Full terms can be found at https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 ______________________________________
 
-Name
-Director 
-xxxx Pty Ltd 
-ABN 00 000 000 000 
+Name  
+Director  
+xxxx Pty Ltd  
+ABN 00 000 000 000  
 ________________________________________
 
-Steve Milburn
-Director
-DLTx Pty Ltd
-ABN 24 634 696 978
+Steve Milburn  
+Director  
+DLTx Pty Ltd  
+ABN 24 634 696 978  
