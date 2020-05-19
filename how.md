@@ -95,6 +95,11 @@ A written report summarising the Workshop outcomes will be provided which should
 | Senior Developer - Consultancy, Architecture, Dev Team Lead        | $1,200    | 2  |$2,400 |
 | Developer - API Development, HTML/CSS/JavaScript, Backend coding         | $600 | 10    | $6,000|
 | Business Analyst - Requirements gathering, documentation, Project Management         | $1,000 | 1.5    | $1,500|
+|Subtotal        | |    | $9,900|
+|GST %        |  |  10  | $  990|
+|Total (inc gst)        |  |    | $10,890 |
+
+
 
 
 # Notes
