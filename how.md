@@ -13,7 +13,7 @@
 
 # The Team
 
-•	Collectively we have over 30-years software engineering experience. Check out the Team on LinkedIn.
+• Collectively we have over 30-years software engineering experience. Check out the Team on LinkedIn.
 
 # The Tech
 
@@ -33,21 +33,21 @@ be deployed on services such as Microsoft Azure, Amazon AWS, Heroku.
 
 DLTx is a strict Agile software house and encourage participation in the build process. A collaborative approach improves results by reducing waste, assumptions and expense.
 
-•	Work is boxed to two-week Sprints, ensuring all stakeholders can understand the deliverables. A straightforward list of outcomes allows a mutual commitment to delivery by all involved.
+• Work is boxed to two-week Sprints, ensuring all stakeholders can understand the deliverables. A straightforward list of outcomes allows a mutual commitment to delivery by all involved.
 
-•	Deeper understanding of the product is gained through client/stakeholder attendance at the sprint planning meetings where requirements are transformed into discrete, outcome-centric units of work called User Stories.
+• Deeper understanding of the product is gained through client/stakeholder attendance at the sprint planning meetings where requirements are transformed into discrete, outcome-centric units of work called User Stories.
 
-•	Stakeholders are encouraged to join the daily Stand-up Meetings (usually 10:00AM-10:15AM) either in-person or via ZOOM. Team members share their progress, any potential blockers or concerns. This ceremony allows Project Leads to react immediately and provide developers with product or business information without delay.
+• Stakeholders are encouraged to join the daily Stand-up Meetings (usually 10:00AM-10:15AM) either in-person or via ZOOM. Team members share their progress, any potential blockers or concerns. This ceremony allows Project Leads to react immediately and provide developers with product or business information without delay.
 
-•	Jira is a flexible and powerful tool used to track workflow and provide overview via reporting. Team members self-assign work, usually choosing the task best suited to their competencies. Stakeholders are encouraged to use their access to monitor Velocity, Burn Down and other metrics along with the progress of each individual User Story.
+• Jira is a flexible and powerful tool used to track workflow and provide overview via reporting. Team members self-assign work, usually choosing the task best suited to their competencies. Stakeholders are encouraged to use their access to monitor Velocity, Burn Down and other metrics along with the progress of each individual User Story.
 
 # The IP
 
-•	All artefacts, code, scripts, images etc. are delivered at the end of each sprint via GitHub or similar. Not only does this safeguard your investment, it allows immediate and direct collaboration with a Client's in-house or external Dev teams.
+• All artefacts, code, scripts, images etc. are delivered at the end of each sprint via GitHub or similar. Not only does this safeguard your investment, it allows immediate and direct collaboration with a Client's in-house or external Dev teams.
 
-•	GitHub (recently acquired by Microsoft for $7.5 billion in stock) is the leading code repository.
+• GitHub (recently acquired by Microsoft for $7.5 billion in stock) is the leading code repository.
 
-•	Terms and conditions secure your IP. Code cannot be re-used elsewhere without express permission and acknowledgement.
+• Terms and conditions secure your IP. Code cannot be re-used elsewhere without express permission and acknowledgement.
 
 ## Done Means In Production!
 
@@ -58,26 +58,24 @@ Provide architectural advice, Business Analysis and development services in prod
 
 # The Solution
 
-**WORKSHOP**
+**Workshop**
 
 DLTx will conduct a half-day workshop, drawing on the proponent’s ideation and aimed at producing a basic Story Map which will in turn be used to generate the User Stories for eventual production. The Workshop will be conducted on-site at dltx and be facilitated by a Business Analyst (BA), with additional input from a Senior Developer and other team members as required.
 
 A written report summarising the Workshop outcomes will be provided which should: 
 
-1.	Clarify additional contributions required from Subject Matter Experts
-2.	Identify any needs for further technical research in terms of production
-3.	Provide a broad understanding of relevant compliance and regulatory issues
-4.	Allow the participant/s to consider the how the proposed project fits with their business model
+1. Clarify additional contributions required from Subject Matter Experts
+2. Identify any needs for further technical research in terms of production
+3. Provide a broad understanding of relevant compliance and regulatory issues
+4. Allow the participant/s to consider the how the proposed project fits with their business model
 
 **USER STORIES**
 
- The Business Analyst will develop User Stories,reflecting the Workshop outcomes and in accordance with the INVEST criteria.
+The Business Analyst will develop User Stories,reflecting the Workshop outcomes and in accordance with the INVEST criteria.
  
- **SPRINT**
- 
-   The Development Team will undertake the work invoked by the User Stories over a two-week Sprint and provide a Showcase 
-   of the outcomes for all stakeholders at the conclusion.
+**SPRINT**
 
+The Development Team will undertake the work invoked by the User Stories over a two-week Sprint and provide a Showcase of the outcomes for all stakeholders at the conclusion.
 
 **Workshop, BA and Development will usually take place over 3-4 weeks, including the two-week production sprint.**
 
@@ -85,11 +83,11 @@ A written report summarising the Workshop outcomes will be provided which should
 
 **WORKSHOP**
 
-	On acceptance of this proposal, dltx will invoice for $750 to provide the Workshop and report described above. This is 	the only commitment required at this point. This cost will be deducted from costs described below when the project 	proceeds to production. 
+On acceptance of this proposal, dltx will invoice for $750 to provide the Workshop and report described above. This is 	the only commitment required at this point. This cost will be deducted from costs described below when the project 	proceeds to production. 
   
 **PRODUCTION**
 
-	It is estimated that creation of the User Stories in addition to a two-week sprint will require the following effort:
+It is estimated that creation of the User Stories in addition to a two-week sprint will require the following effort:
 
 | __Resource__ | __Day Rate__ | __Effort__ | __Cost__ |
 |-------------|------------|------------|------------|
@@ -101,23 +99,21 @@ A written report summarising the Workshop outcomes will be provided which should
 |Total (inc gst)        |  |    | $10,890 |
 
 
-
-
 # Notes
 
-1.	All prices are in AUD and are ex-GST except where noted.
-2.	Workshop date to be confirmed on receipt of initial payment ($750).
-3.	Further proposal for Production and deposit of $3000 will be provided with Workshop Report.
-4.	Final payment to be invoiced on handover and acceptance.
-5.	BTC or ETH payments can be arranged at an agreed AUD rate.
+1. All prices are in AUD and are ex-GST except where noted.
+2. Workshop date to be confirmed on receipt of initial payment ($750).
+3. Further proposal for Production and deposit of $3000 will be provided with Workshop Report.
+4. Final payment to be invoiced on handover and acceptance.
+5. BTC or ETH payments can be arranged at an agreed AUD rate.
 
 # Acceptance
 
-1.	Please read the information herein to make sure you understand all the details involved with us working together. It's important to us that everything is transparent and understood from the beginning so that we lay a solid foundation for a great working relationship.
-2.	If you have any questions at all, please let us know. We're happy to clarify any points and there may be some items that we can sort out together. We're committed to finding the best way to work together.
-3.	Once you feel confident about everything and are ready to move forward, please sign below and return to us.
-4.	Once we receive your acceptance, we will forward an invoice and contact you to arrange a suitable date for the Workshop.
-5.	If you'd like to speak to us by phone, don't hesitate to call Steve on +61 456 619 631
+1. Please read the information herein to make sure you understand all the details involved with us working together. It's important to us that everything is transparent and understood from the beginning so that we lay a solid foundation for a great working relationship.
+2. If you have any questions at all, please let us know. We're happy to clarify any points and there may be some items that we can sort out together. We're committed to finding the best way to work together.
+3. Once you feel confident about everything and are ready to move forward, please sign below and return to us.
+4. Once we receive your acceptance, we will forward an invoice and contact you to arrange a suitable date for the Workshop.
+5. If you'd like to speak to us by phone, don't hesitate to call Steve on +61 456 619 631
 
 
 ______________________________________
