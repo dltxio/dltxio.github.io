@@ -8,7 +8,7 @@
 
 • Done means in production. Testing is important, but the real test is user engagement post deployment. Early deployment brings forward ROI.
 
-• Prefer Open Source. Open source products reduce costs, are generally more secure, and avoid ‘vendor lock-in'.
+• Prefer Open Source. Open source products reduce costs, are arguably more secure, and avoid ‘vendor lock-in'.
 
 # The Team
 
@@ -42,7 +42,7 @@ DLTx is a strict Agile software house and encourage participation in the build p
 
 # The IP
 
-• All artefacts, code, scripts, images etc. are delivered at the end of each sprint via GitHub or similar. Not only does this safeguard your investment, it allows immediate and direct collaboration with a Client's in-house or external Dev teams.
+• All artefacts, code, scripts, images etc. are delivered at the end of each sprint via GitHub or similar. Not only does this safeguard your investment, it allows immediate and direct collaboration with a Client's in-house or external dev teams.
 
 • GitHub (recently acquired by Microsoft for $7.5 billion in stock) is the leading code repository.
 
@@ -88,6 +88,8 @@ On acceptance of this proposal, dltx will invoice for $750 to provide the Worksh
 
 It is estimated that creation of the User Stories in addition to a two-week sprint will require the following effort:
 
+### EXAMPLE
+
 | __Resource__ | __Day Rate__ | __Effort__ | __Cost__ |
 |-------------|------------|------------|------------|
 | Senior Developer - Consultancy, Architecture, Dev Team Lead        | $1,200    | 2  |$2,400 |
@@ -124,5 +126,5 @@ ________________________________________
 
 Steve Milburn
 Director
-dltx Pty Ltd
+DLTx Pty Ltd
 ABN 24 634 696 978
