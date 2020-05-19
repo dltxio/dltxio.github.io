@@ -90,6 +90,13 @@ A written report summarising the Workshop outcomes will be provided which should
 
 	It is estimated that creation of the User Stories in addition to a two-week sprint will require the following effort:
 
+| __Resource__ | __Day Rate__ | __Effort__ | __Cost__ |
+|-------------|------------|------------|------------|
+| Senior Developer - Consultancy, Architecture, Dev Team Lead        | $1,200    | 2  |$2,400 |
+| Developer - API Development, HTML/CSS/JavaScript, Backend coding         | $600 | 10    | $6,000|
+| Business Analyst - Requirements gathering, documentation, Project Management         | $1,000 | 1.5    | $1,500|
+
+
 # Notes
 
 1.	All prices are in AUD and are ex-GST except where noted.
