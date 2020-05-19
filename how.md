@@ -1,8 +1,8 @@
 # The Philosphy
 
-• Communicate early and often. Delivering software solutions is often complex and complications can arise. Open and 	  honest communication allows problems to be quickly resolved or mitigated.
+• Communicate early and often. Delivering software solutions is often complex and complications can arise. Open and honest communication allows problems to be quickly resolved or mitigated.
 
-• Invest in future proofing. Solutions should be used and have a long and productive life. Good architecture provides 	    a solid backbone and on-going flexibility to assist with changing requirements.
+• Invest in future proofing. Solutions should be used and have a long and productive life. Good architecture provides a solid backbone and on-going flexibility to assist with changing requirements.
 
 • Reputation is everything. Marketing can lift your profile, but endorsement is about satisfied clients.
 
@@ -82,7 +82,7 @@ The Development Team will undertake the work invoked by the User Stories over a 
 
 **Workshop**
 
-On acceptance of this proposal, dltx will invoice for $750 to provide the Workshop and report described above. This is 	the only commitment required at this point. This cost will be deducted from costs described below when the project 	proceeds to production. 
+On acceptance of this proposal, dltx will invoice for $750 to provide the Workshop and report described above. This is the only commitment required at this point. This cost will be deducted from costs described below when the project	proceeds to production. 
   
 **Production**
 
