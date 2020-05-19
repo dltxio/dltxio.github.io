@@ -68,11 +68,11 @@ A written report summarising the Workshop outcomes will be provided which should
 3. Provide a broad understanding of relevant compliance and regulatory issues
 4. Allow the participant/s to consider the how the proposed project fits with their business model
 
-**USER STORIES**
+**User stories**
 
 The Business Analyst will develop User Stories,reflecting the Workshop outcomes and in accordance with the INVEST criteria.
  
-**SPRINT**
+**Sprint**
 
 The Development Team will undertake the work invoked by the User Stories over a two-week Sprint and provide a Showcase of the outcomes for all stakeholders at the conclusion.
 
@@ -80,11 +80,11 @@ The Development Team will undertake the work invoked by the User Stories over a 
 
 # Investment
 
-**WORKSHOP**
+**Workshop**
 
 On acceptance of this proposal, dltx will invoice for $750 to provide the Workshop and report described above. This is 	the only commitment required at this point. This cost will be deducted from costs described below when the project 	proceeds to production. 
   
-**PRODUCTION**
+**Production**
 
 It is estimated that creation of the User Stories in addition to a two-week sprint will require the following effort:
 
