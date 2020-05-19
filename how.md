@@ -116,12 +116,13 @@ It is estimated that creation of the User Stories in addition to a two-week spri
 4. Once we receive your acceptance, we will forward an invoice and contact you to arrange a suitable date for the Workshop.
 5. If you'd like to speak to us by phone, don't hesitate to call Steve on +61 456 619 631
 
+Full terms can be found at https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 ______________________________________
 
-Name 
-Director
-xxxx Pty Ltd
-ABN 00 000 000 000
+Name
+Director 
+xxxx Pty Ltd 
+ABN 00 000 000 000 
 ________________________________________
 
 Steve Milburn
