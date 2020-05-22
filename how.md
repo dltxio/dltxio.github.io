@@ -1,4 +1,4 @@
-# The Philosphy
+# The Philosophy
 
 • Communicate early and often. Delivering software solutions is often complex and complications can arise. Open and honest communication allows problems to be quickly resolved or mitigated.
 
