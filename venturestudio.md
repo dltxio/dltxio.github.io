@@ -1,18 +1,17 @@
 # Venture studio
 
-DLTx are always looking to partner blockchain and payment based startups.  If you are intrested in exploring a joint venture, the below is our typical process.
+DLTx is open to partnerships with blockchain and payment-based start-ups.  For nascent start-ups or those interested in exploring joint ventures, this is our typical process:
 
 ## Block 0
-To begin the process, we start off with a 30min informal Zoom call or office meeting to get to know one another, talk briefly of the idea, assperations and goals, and if the founders visions aligs with ours.
+Starting with a 30-minute informal meeting (in our Adelaide St, Brisbane office or via Zoom) allows us to talk through the idea in technical and commercial terms. Understanding the founder’s aspirations and goals is vital in ensuring their vision aligns with DLTx.
 
 ## Block 1
-Should we depart with common goals and an apertite to explore a POC or MVP, we ask that you book a 2 to 4hr work shop, with our BA, tech lead and design lead thinkers to explore what the product could look like, and sucess is.  This typically costs $750 including GST.
+Assuming there is a mutual appetite to explore a POC or MVP, the next step is a half-day workshop with guidance from a Business Analyst, Tech Lead and Design Lead. The object is to explore what the product could look like, both in terms of MVP/POC and V1.0 along with defining what 'success' is.  The cost is typically $750 which is then offset against the cost of any further work should the project proceed.
 
 ## Block 2
-As an artifact of block 1, we will provide a quote and brief of our understanding of the product, and explore some discounts for equity based on the conversations had to date.  These can veriy from 5% to 49% depending on our evaluation of the oppertunity in the market and the ablity to excute.
+As an artifact of block 1, a proposal containing an estimate and summary of opportunity and prospective solution will be provided. The proposal may also explore possibilities for discounts and equity-based participation, based on the conversations thus far.  Equity participation can vary between 0% to 49% depending on an evaluation of the opportunity and the perceived ability of the founders to execute commercially.
 
 ## Block 3
-The build.  Our typical MVP / POC projects cost $10,000 to $50,000 plus GST.  Our methodolgy and values can be found at https://github.com/dltxio/dltxio.github.io/blob/master/how.md
+The build.  A typical MVP/POC projects cost $10,000 to $50,000 plus GST.  A summary of DLTx's methodology and values can be found at https://github.com/dltxio/dltxio.github.io/blob/master/how.md
 
-
-Full terms : https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
+Standard Terms and Conditions : https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
