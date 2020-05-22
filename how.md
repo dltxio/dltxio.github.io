@@ -108,24 +108,4 @@ It is estimated that creation of the User Stories in addition to a two-week spri
 4. Final payment to be invoiced on handover and acceptance.
 5. BTC or ETH payments can be arranged at an agreed AUD rate.
 
-# Acceptance
 
-1. Please read the information herein to make sure you understand all the details involved with us working together. It's important to us that everything is transparent and understood from the beginning so that we lay a solid foundation for a great working relationship.
-2. If you have any questions at all, please let us know. We're happy to clarify any points and there may be some items that we can sort out together. We're committed to finding the best way to work together.
-3. Once you feel confident about everything and are ready to move forward, please sign below and return to us.
-4. Once we receive your acceptance, we will forward an invoice and contact you to arrange a suitable date for the Workshop.
-5. If you'd like to speak to us by phone, don't hesitate to call Steve on +61 456 619 631
-
-Full terms can be found at https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
-______________________________________
-
-Name  
-Director  
-xxxx Pty Ltd  
-ABN 00 000 000 000  
-________________________________________
-
-Steve Milburn  
-Director  
-DLTx Pty Ltd  
-ABN 24 634 696 978  
