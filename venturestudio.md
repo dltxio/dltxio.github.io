@@ -1,4 +1,4 @@
-# Venture studio
+# Venture Studio
 
 DLTx is open to partnerships with blockchain and payment-based start-ups.  For nascent start-ups or those interested in exploring joint ventures, this is our typical process:
 
