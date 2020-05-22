@@ -1,7 +1,7 @@
-## Clients
+# Clients
 
-* Queensland Government - Proof of Concept Blockchain based licences
-* The Payment App
+* ## Queensland Government - Proof of Concept Blockchain based licences
+* ## The Payment App
 * Clipp
 * Gold Silver Standard (Ainslie Bullion)
 * TravelbyBit
