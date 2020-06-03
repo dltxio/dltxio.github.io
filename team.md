@@ -2,7 +2,7 @@
 
 ## Lucas Cullen
 * ENS: lucas.cullen.eth
-* GitHub: BitcoinBrisbane
+* GitHub: bitcoinbrisbane
 * Keybase: BitcoinBrisbane
 * Skills: c#, NodeJS, React, Haskell, Python
 
@@ -13,4 +13,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDB47XyILMWtKlH346LDKbZAtZpp9oR8jzn7wOQP0RL
 ### PGP Fingerprint
 `9214 979F 5310 8E65 60E6  21BC EBBB B03B 58C8 9CDC`
 
-PGP Public Key: 
+PGP Public Key: `/assets/LUCAS CULLEN (58C89CDC).asc`
