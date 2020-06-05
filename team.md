@@ -1,23 +1,34 @@
 # The DLTx Team
 
 ## Lucas Cullen
-* ENS: lucas.cullen.eth
-* GitHub: bitcoinbrisbane
-* Keybase: BitcoinBrisbane
-* Skills: c#, NodeJS, React, Haskell, Python
+
+- ENS: lucas.cullen.eth
+- GitHub: bitcoinbrisbane
+- Keybase: BitcoinBrisbane
+- Skills: c#, NodeJS, React, Haskell, Python
 
 ```text
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDB47XyILMWtKlH346LDKbZAtZpp9oR8jzn7wOQP0RL0XKZ7sZw9Zl3gkKGbL/ItE7jgR3sl5XxcZTxwn645cgai35TwoDs/woUHMBh9TOMnuLcEnB0v21xGWD/rWzMzCT+pYnKcxdmXssu9xKxnV+J2xl7ZtzwKk3pS65JTtYIP4zREZG3OKbH9145B882V0bNeXkMu41nYmFxutZ902VWWCc7jOU84ZGDufvhWlbszeuqDt+ntTwzXJWb5XO65Tt7onVU+UWP0+q90ZzMsxH2vJ/ezgqMdhjuzKu/Yv+15ba3iv+zyEFKo6MthYi+zAWhFsbFmLfyeFyx9lneh3Zt lucascullen@Cross-Counter.local
 ```
 
 ### PGP Fingerprint
-`9214 979F 5310 8E65 60E6  21BC EBBB B03B 58C8 9CDC`
+
+`9214 979F 5310 8E65 60E6 21BC EBBB B03B 58C8 9CDC`
 
 PGP Public Key: `/assets/LUCAS CULLEN (58C89CDC).asc`
 
 ## Justin Taylor
-* Github: sjustintaylor
+
+- Github: sjustintaylor
 
 ```text
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDdCiKS34tOhp/X88/+T846wBh5gjqHpqK5ZVricn3nPqn6wnjuZqIH7noBTMZ+BvFRXcdYKX61ZdtyVeSInF1W0CobihHv9B78xBS3jFLfF50ykSssfeldMVUBUywIyx5In1JZf+JRtl2/Kd0RbvOjFJRAWgyEn8qwHqEbBlm7hSYsJpEc799SgRPinkIV1pLVKEkmcJIdZf+6f3sVDH4QBcNPexZEJS74vhZJHbknCVzpX7304EkKgn3sEGSSWHOFCcOMLNIBF524eEnINMf5sOhnOW0GiGildMeaXZ6qnYpY/BCPHOgEbo6IV1mnMP57PMH7CpnH3D3ugW7ZFdBt4fUOkYeRk6FUwzVU9sPx5wcaTeADORBTCeXXTOCOgC0tp6o9alsQ8xr/MX9087nO7JhqYnkQoseOJT+3X+Tk0tlgJZURBDNSWBgN1QihAMfl6CT1iocOVnFH0xRCHPXIEoLN5Ume0ewygSKZzus51cQt85vhCBV6zfMYLC7Hhgs5b/qjCuG9Gp7sZKPV/FyxJrmIw3aV+AEA6kNjz9R46kGnt+oC2Ur3/DtQHAnnWHZDLycEmoT2LIaqanTXes2fTD9a790pkit1rdbidi+2Dh37JRscIJwOaaiulukeAA4ncS6oY+R+qrE16LkT+bmYJk8ATnP1j1GRTby5bDh5rQ== Justin Taylor
+```
+
+## Callum Gibson
+
+- Github: callumcancreate
+
+```text
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCsIaTcVuU6zfUtWmkaXgaMyHOglTAzzT1icr1m/ddZzMt+maYgzbHgLf81e6nfwHUFsC0wy4HogCf8i2QKbtwRmzcXtGo/RifVdfKiuLwLantRer6PG9tiWIOKLQml/HUX0xqYp0yzyPLi9KvNuA8en0386aAKRr1cIroBvhc7Bu1eWVVjO4G/lT7z9eJqGTBhQc0/lXSY/+GQLtcmsX1jOjKw7SInUk1moXBkKkAqZAi6tmhJ9CvDSw87h1kShlyq3kvYSLFLpRMC2xSnZWU0hPz0NHKmginc6A3czEPuCqlhUYGaeXS8PDhpoJKWYqlA0vPktfeyAVtJ1qZa5vKl4myjGCZ1U+bJsl3cg0lW5cKLR9R3t9S8hPCQdu0eiHLJ1aSexaxiysO90uL4GZlMCze2j2MpWLVns4u5NdmureHcDFN3lD0hpWdDE5gxsGq2jHT6/9d7GE8g4wxN3ixrZW7S7gBRto5fHjWFMhHdOJbY7d6oB+xUk6jO7tliu9Vj5uEMvYD0iS7KIWju03Oasw+V5FheyxEHRdoNH5B0TGQ83OOXRXzTmyMdVFx4gfeto61+8mRob78H/KrqoTG+ZhH8XJn4ZqW+sKJveUOFt73HBzt8tRWWCLcBILF2zfBwCeBW11Yh8lznrBaPNELMbYOCsSodzFWH3onXoTV+kQ== callumcancreate@gmail.com
 ```
