@@ -7,8 +7,14 @@
 - Keybase: BitcoinBrisbane
 - Skills: Solidity, c#, NodeJS, React, Haskell, Python
 
+Mac Mini:
 ```text
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDB47XyILMWtKlH346LDKbZAtZpp9oR8jzn7wOQP0RL0XKZ7sZw9Zl3gkKGbL/ItE7jgR3sl5XxcZTxwn645cgai35TwoDs/woUHMBh9TOMnuLcEnB0v21xGWD/rWzMzCT+pYnKcxdmXssu9xKxnV+J2xl7ZtzwKk3pS65JTtYIP4zREZG3OKbH9145B882V0bNeXkMu41nYmFxutZ902VWWCc7jOU84ZGDufvhWlbszeuqDt+ntTwzXJWb5XO65Tt7onVU+UWP0+q90ZzMsxH2vJ/ezgqMdhjuzKu/Yv+15ba3iv+zyEFKo6MthYi+zAWhFsbFmLfyeFyx9lneh3Zt lucascullen@Cross-Counter.local
+```
+
+Ubuntu Desktop:
+```text
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD4hD3DvCi0w7Ke7gfIvY9kWNOgEkmc7LndV1xIa76S3yTV744bLsYaCVHfGEncSMyU/daeqvU7PpeuodtyWNJbR2DCPv07Tef+DuuKVvlY56DpDo4F8qZEkGYoFTM70CoO6ni5TbCEOjN78Pj+Z6GU2QKSZKJ61Gqququf4OSZyy0edox6xqc5L37ZaSg3koWtrrMbT0NaS3/fg3VaPzzUvKG9I6iYmKAtstP28lrBq4KTykTCv21Up8t2WOavUTs9eB1h6n9wxn45vlm4mL9+BdCN3X08e5U+IW7SQFPOsudAJ1Bz8fnQhc4L80y0sBG29LeuDYOiK8iVyr2A/4Fr lucascullen@SubZero
 ```
 
 ### PGP Fingerprint
