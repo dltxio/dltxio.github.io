@@ -1,4 +1,4 @@
-# The DLTx Team
+# The DLTx Mesh
 
 ## Lucas Cullen
 
