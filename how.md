@@ -71,6 +71,12 @@ A written report summarising the Workshop outcomes will be provided which should
 **User stories**
 
 The Business Analyst will develop User Stories,reflecting the Workshop outcomes and in accordance with the INVEST criteria.
+* Indpendent
+* Negotiable
+* Valuable
+* Estimatable
+* Small
+* Testable
  
 **Sprint**
 
