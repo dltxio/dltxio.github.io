@@ -1,6 +1,6 @@
 # DLTx culture
 
-## Team culture
+## Mesh culture
 * Be opitionated.
 * Work as a team.  Not just say we do, but actually do it.  Pull up a chair, pair program.
 * Get it done.
