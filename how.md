@@ -10,9 +10,9 @@
 
 • Prefer Open Source. Open source products reduce costs, are arguably more secure, and avoid ‘vendor lock-in'.
 
-# The Team
+# The Mesh
 
-• Collectively we have over 30-years software engineering experience. Check out the Team on LinkedIn.
+• Collectively we have over 30-years software engineering experience. Check out the Mesh on LinkedIn.
 
 # The Tech
 
