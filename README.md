@@ -6,7 +6,7 @@ Download our terms at https://dltx.io/DLTX%20Terms%20and%20Condtions.pdf. SHA2-2
 
 Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 
-```
+```json
 {
   "address": "0xdb85aa4ad3afecaaecd9cbbe63c46e461e2ecf2f",
   "msg": "Offical ethereum address for DLTX.io",
@@ -16,4 +16,5 @@ Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 }
 ```
 
-PGP key `F6FBA7D5` can be found in MIT or `/assets/pgp.txt`
+Our PGP key for info@dltx.io can be found at http://keys.gnupg.net/pks/lookup?search=info%40dltx.io&fingerprint=on&op=index
+`Fingerprint=8729 4D2E 6FB6 7CA1 60CF  5F44 AF26 B659 E018 8231`
