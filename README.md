@@ -16,5 +16,7 @@ Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 }
 ```
 
+### PGP Keys
+
 Our PGP key for info@dltx.io can be found at http://keys.gnupg.net/pks/lookup?search=info%40dltx.io&fingerprint=on&op=index
 `Fingerprint=8729 4D2E 6FB6 7CA1 60CF  5F44 AF26 B659 E018 8231`
