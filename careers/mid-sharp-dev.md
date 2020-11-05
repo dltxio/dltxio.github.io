@@ -3,7 +3,7 @@
 DLTx is a software development house with a focus on dApps and Blockchain Technologies. We require a casual developer 2 to 4 days/week in the Brisbane CBD. The role entails assisting the CTO and other devs with production tasks. It is a great opportunity to work with one of the country's leading DLT devs on real-world projects. 
  
 ## Skills: 
-* c# Dot net & dot net core experience 3 years +
+* c# Dot Net & Dot Net Core experience 3 years +
 * MVC / MVC Web API 
 * Basic design patterns knowledge
 * General IT (Domains, DNS, SSH) 
@@ -27,5 +27,5 @@ DLTx is a software development house with a focus on dApps and Blockchain Techno
 * Some flexibility around the day/s involved
 * Successful applicant will be required to work in the Adelaide St office
 * Remote / work from home available
-* Further responsibilities and opportunities at DLTX await the right candidate
+* Further responsibilities and opportunities at DLTx await the right candidate
 * As the update of client documentation may form part of the duties, a high standard of English literacy will be preferred
