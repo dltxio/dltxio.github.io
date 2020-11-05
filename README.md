@@ -1,10 +1,6 @@
 ## Offical website for DLTx Pty Ltd
 
-We take security seriously.  Contracts will be signed from `0xdb85aa4ad3afecaaecd9cbbe63c46e461e2ecf2f`
-
-Download our terms at https://dltx.io/DLTX%20Terms%20and%20Condtions.pdf. SHA2-256 = `0a5e0d3cf1c1fd0a063add3d748d24861df8ecbb1608bf29f954f69c06b02097`
-
-Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
+All our smart contracts will be signed from `0xdb85aa4ad3afecaaecd9cbbe63c46e461e2ecf2f`
 
 ```json
 {
@@ -15,6 +11,11 @@ Or read at terms https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
   "signer": "keepkey"
 }
 ```
+
+### Terms
+Download our terms at https://dltx.io/DLTX%20Terms%20and%20Condtions.pdf. SHA2-256 = `0a5e0d3cf1c1fd0a063add3d748d24861df8ecbb1608bf29f954f69c06b02097`
+
+Or available at https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
 
 ### PGP Key
 
