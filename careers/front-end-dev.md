@@ -9,7 +9,8 @@ DLTx is a software development house with a focus on payment applications, dApps
 * Continous Delivery with CircleCI and YAML
 * Unit testing using Jest
 * Other DevOps, Bash a plus
-* React Native experience a plus 
+* React Native experience a plus
+* Python / Go / C# a plus
  
 ## Duties: 
 * Designing and delivering mobile app and web front end solutions from proof of concept to end product delivery
