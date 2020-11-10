@@ -4,6 +4,7 @@ DLTx is a software development house with a focus on payment applications, dApps
 
 ## Skills: 
 * React, NodeJS
+* AWS, buckets, amplify, cloudformation experience
 * Git experience
 * Continous Delivery with CircleCI and YAML
 * Unit testing using Jest
