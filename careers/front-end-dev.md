@@ -1,6 +1,6 @@
 # Developer/Production Assistant 
 
-DLTx is a software development house with a focus on payment applications, dApps and Blockchain Technologies.  We require a part time / full time mid level front end developer to join an exteremly capable but small team of developers and testers.
+DLTx is a software development house with a focus on payment applications, dApps and Blockchain Technologies.  We require a part time / full time mid level front end developer to join an extremely capable but small team of developers and testers.
 
 ## Skills: 
 * React, Vue and NodeJS with Express
