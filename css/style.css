@@ -951,4 +951,18 @@ hr {
   animation-fill-mode: both;
 }
 
+.affiliates h3 {
+  margin-bottom: 1em;
+}
+
+@media screen and (max-width: 768px) {
+  .affiliates {
+    margin-bottom: 3em;
+  }
+
+  .affiliates h3 {
+    margin-bottom: 0;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
