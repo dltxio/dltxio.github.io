@@ -8,8 +8,6 @@
 * GoLogic https://www.gologic.com.au/
 * Trust Provenance https://www.trustprovenance.com/
 * Civic Ledger https://civicledger.com/solutions/
-* The Payment App https://www.thepaymentapp.com.au/
-* Clipp https://clipp.co/
 * Gold Silver Standard (Ainslie Bullion) https://goldsilverstandard.com/
 * Invox Finance https://www.invoxfinance.io/
 * Blockclick https://www.blockclick.io/
