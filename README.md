@@ -4,11 +4,11 @@ All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D65
 
 ```json
 {
-  "address": "0xdb85aa4ad3afecaaecd9cbbe63c46e461e2ecf2f",
-  "msg": "Offical ethereum address for DLTX.io",
-  "sig": "0x28f2f61dc1190e2141f755e1ba8c430aa1bf21a78a2768c563c6324853d44be67f9b573af4c8c494a5f11fbb287290ebd6a572ce6c619c03ac2c84acb8ca25b71c",
+  "address": "0xcd77419b5c5d1917e92416e35e16c4d657fd49ae",
+  "msg": "This key belongs to DLTx.io",
+  "sig": "0x8e9028b5ccd5b4a300beb5e96e7bce2fe3cfb6878e993e13f91d21af091a2e5158be99efb2ab731c4758964c4cc5da11c07a99396e35f5f34c473469256d544d1c",
   "version": "3",
-  "signer": "keepkey"
+  "signer": "MEW"
 }
 ```
 
