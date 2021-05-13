@@ -1,6 +1,6 @@
 ## Offical website for DLTx Pty Ltd
 
-All our smart contracts will be signed from `0xdb85aa4ad3afecaaecd9cbbe63c46e461e2ecf2f`
+All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D657Fd49Ae`
 
 ```json
 {
