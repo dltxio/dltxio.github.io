@@ -1,5 +1,7 @@
 ## Offical website for DLTx Pty Ltd
 
+Brisbane's Blockchain, Smart Contract and Crypto Developers
+
 ![dltx-svgAsset 1](https://user-images.githubusercontent.com/8411406/118200149-d9ad3280-b497-11eb-9df3-df4a17b6070a.png)
 
 All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D657Fd49Ae`
