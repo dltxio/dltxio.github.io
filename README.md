@@ -1,5 +1,9 @@
 ## Offical website for DLTx Pty Ltd
 
+Brisbane's Blockchain, Smart Contract and Crypto Developers
+
+![dltx-svgAsset 1](https://user-images.githubusercontent.com/8411406/118200149-d9ad3280-b497-11eb-9df3-df4a17b6070a.png)
+
 All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D657Fd49Ae`
 
 ```json
@@ -11,6 +15,10 @@ All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D65
   "signer": "MEW"
 }
 ```
+
+## Blockchain Australia
+DLTx.io is a proud member of Blockchain Australia
+![Blockchain-Australia](https://user-images.githubusercontent.com/8411406/118200117-cbf7ad00-b497-11eb-93b5-6e5ca886789d.png)
 
 ### Terms
 Download our terms at https://dltx.io/DLTX%20Terms%20and%20Condtions.pdf. SHA2-256 = `0a5e0d3cf1c1fd0a063add3d748d24861df8ecbb1608bf29f954f69c06b02097`
