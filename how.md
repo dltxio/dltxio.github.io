@@ -98,12 +98,16 @@ It is estimated that creation of the User Stories in addition to a two-week spri
 
 | __Resource__ | __Day Rate__ | __Effort__ | __Cost__ |
 |-------------|------------|------------|------------|
-| Senior Developer - Consultancy, Architecture, Dev Team Lead        | $1,500    | 2  |$3,000 |
-| Developer - API Development, HTML/CSS/JavaScript, Backend coding         | $800 | 10    | $8,000|
-| Business Analyst - Requirements gathering, documentation, Project Management         | $1,000 | 1.5    | $1,500|
-|Subtotal        | |    | $12,500|
-|GST %        |  |  10  | $  1,250|
-|Total (inc gst)        |  |    | $13,750 |
+| Software Architect, Smart Contract Developer         | $1,600    | 2  |$3,200 |
+| Product Owner, Subject Matter Expert         | $1,600 | 10    | $16,000|
+| Technical Lead, Senior Developer         | $1,400 | 1.5    | $2,800|
+| Business Analyst                         | $1,200 | 1      | $1,200|
+| Full Stack Developer                     | $1000  | 1      | $1000 |
+| Developer                                | $720   | 1      | $720  |
+| Tester                                   | $600   | 1      | $600  |  
+| Subtotal        | |    | $12,500|
+| GST %        |  |  10  | $  1,250|
+| Total (inc gst)        |  |    | $13,750 |
 
 
 # Notes
