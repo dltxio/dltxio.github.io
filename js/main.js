@@ -549,14 +549,14 @@
 		homeAnimate();
 		exploreAnimate();
 		legalAnimate();
-		gettingStartedAnimate();
-		pricingAnimate();
+		// gettingStartedAnimate();
+		// pricingAnimate();
 		doneAnimate();
 		servicesAnimate();
-		teamAnimate();
+		// teamAnimate();
 		footerAnimate();
-		counter();
-		counterWayPoint();
+		// counter();
+		// counterWayPoint();
 	});
 
 
