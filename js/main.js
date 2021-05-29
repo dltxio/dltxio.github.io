@@ -274,45 +274,45 @@
 		}
 	};
 
-	var gettingStartedAnimate = function() {
-		var started = $('.getting-started-1');
-		if ( started.length > 0 ) {	
+	// var gettingStartedAnimate = function() {
+	// 	var started = $('.getting-started-1');
+	// 	if ( started.length > 0 ) {	
 
-			started.waypoint( function( direction ) {
+	// 		started.waypoint( function( direction ) {
 										
-				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+	// 			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
 
 
-					setTimeout(function() {
-						started.find('.to-animate').each(function( k ) {
-							var el = $(this);
+	// 				setTimeout(function() {
+	// 					started.find('.to-animate').each(function( k ) {
+	// 						var el = $(this);
 							
-							setTimeout ( function () {
-								el.addClass('fadeInUp animated');
-							},  k * 200, 'easeInOutExpo' );
+	// 						setTimeout ( function () {
+	// 							el.addClass('fadeInUp animated');
+	// 						},  k * 200, 'easeInOutExpo' );
 							
-						});
-					}, 200);
+	// 					});
+	// 				}, 200);
 
-					setTimeout(function() {
-						started.find('.to-animate-2').each(function( k ) {
-							var el = $(this);
+	// 				setTimeout(function() {
+	// 					started.find('.to-animate-2').each(function( k ) {
+	// 						var el = $(this);
 							
-							setTimeout ( function () {
-								el.addClass('fadeInRight animated');
-							},  k * 200, 'easeInOutExpo' );
+	// 						setTimeout ( function () {
+	// 							el.addClass('fadeInRight animated');
+	// 						},  k * 200, 'easeInOutExpo' );
 							
-						});
-					}, 200);
+	// 					});
+	// 				}, 200);
 
 					
-					$(this.element).addClass('animated');
+	// 				$(this.element).addClass('animated');
 						
-				}
-			} , { offset: '80%' } );
+	// 			}
+	// 		} , { offset: '80%' } );
 
-		}
-	};
+	// 	}
+	// };
 
 
 	// var pricingAnimate = function() {
@@ -442,9 +442,94 @@
 		}
 	};
 
+	const meshAnimate = function() {
+		const mesh = $('#fh5co-done');
+		if ( mesh.length > 0 ) {	
 
-	var teamAnimate = function() {
-		var team = $('#fh5co-team');
+			mesh.waypoint( function( direction ) {
+										
+				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+
+
+					var sec = mesh.find('.to-animate').length,
+						sec = parseInt((sec * 200) + 400);
+
+					setTimeout(function() {
+						mesh.find('.to-animate').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('fadeInUp animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 200);
+
+					setTimeout(function() {
+						services.find('.to-animate-2').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('bounceIn animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, sec);
+
+					
+					$(this.element).addClass('animated');
+						
+				}
+			} , { offset: '80%' } );
+
+		}
+	};
+
+	const buildAnimate = function() {
+		const build = $('#fh5co-build');
+		if ( build.length > 0 ) {	
+
+			build.waypoint( function( direction ) {
+										
+				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+
+					var sec = build.find('.to-animate').length,
+						sec = parseInt((sec * 200) + 400);
+
+					setTimeout(function() {
+						build.find('.to-animate').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('fadeInUp animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, 200);
+
+					setTimeout(function() {
+						services.find('.to-animate-2').each(function( k ) {
+							var el = $(this);
+							
+							setTimeout ( function () {
+								el.addClass('bounceIn animated');
+							},  k * 200, 'easeInOutExpo' );
+							
+						});
+					}, sec);
+
+					
+					$(this.element).addClass('animated');
+						
+				}
+			} , { offset: '80%' } );
+
+		}
+	};
+
+
+	const teamAnimate = function() {
+		const team = $('#fh5co-team');
 		if ( team.length > 0 ) {	
 
 			team.waypoint( function( direction ) {
@@ -549,8 +634,11 @@
 		legalAnimate();
 		// gettingStartedAnimate();
 		// pricingAnimate();
-		doneAnimate();
 		servicesAnimate();
+		buildAnimate();
+		doneAnimate();
+		meshAnimate();
+		
 		// teamAnimate();
 		footerAnimate();
 		// counter();
