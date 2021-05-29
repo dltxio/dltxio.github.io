@@ -2,7 +2,7 @@
 	
 	'use strict';
 
-	var isMobile = {
+	const isMobile = {
 		Android: function() {
 			return navigator.userAgent.match(/Android/i);
 		},
@@ -24,20 +24,19 @@
 	};
 
 
-
 	// iPad and iPod detection	
-	var isiPad = function(){
+	const isiPad = function(){
 		return (navigator.platform.indexOf("iPad") != -1);
 	};
 
-	var isiPhone = function(){
+	const isiPhone = function(){
 	    return (
 			(navigator.platform.indexOf("iPhone") != -1) || 
 			(navigator.platform.indexOf("iPod") != -1)
 	    );
 	};
 
-	var fullHeight = function() {
+	const fullHeight = function() {
 
 		if ( !isMobile.any() ) {
 			$('.js-fullheight').css('height', $(window).height());
@@ -50,7 +49,7 @@
 	};
 
 	// Parallax
-	var parallax = function() {
+	const parallax = function() {
 		if ( !isMobile.any() ) {
 			$(window).stellar();
 		}
@@ -58,10 +57,10 @@
 
 
 	// Page Nav
-	var clickMenu = function() {
+	const clickMenu = function() {
 
 		$('#navbar a:not([class="external"])').click(function(event){
-			var section = $(this).data('nav-section'),
+			const section = $(this).data('nav-section'),
 				navbar = $('#navbar');
 
 				if ( $('[data-section="' + section + '"]').length ) {
@@ -84,7 +83,7 @@
 	};
 
 	// Reflect scrolling in navigation
-	var navActive = function(section) {
+	const navActive = function(section) {
 
 		var $el = $('#navbar > ul');
 		$el.find('li').removeClass('active');
@@ -94,9 +93,9 @@
 
 	};
 
-	var navigationSection = function() {
+	const navigationSection = function() {
 
-		var $section = $('section[data-section]');
+		const $section = $('section[data-section]');
 		
 		$section.waypoint(function(direction) {
 		  	
@@ -118,8 +117,8 @@
 	};
 
 	// Window Scroll
-	var windowScroll = function() {
-		var lastScrollTop = 0;
+	const windowScroll = function() {
+		// const lastScrollTop = 0;
 
 		$(window).scroll(function(event){
 
@@ -143,7 +142,7 @@
 
 	// Animations
 	// Home
-	var homeAnimate = function() {
+	const homeAnimate = function() {
 		if ( $('#fh5co-home').length > 0 ) {	
 
 			$('#fh5co-home').waypoint( function( direction ) {
@@ -171,9 +170,9 @@
 		}
 	};
 
-	var exploreAnimate = function() {
+	const exploreAnimate = function() {
 
-		var explore = $('#fh5co-explore');
+		const explore = $('#fh5co-explore');
 		if ( explore.length > 0 ) {	
 
 			explore.waypoint( function( direction ) {
@@ -223,9 +222,9 @@
 		}
 	};
 
-	var legalAnimate = function() {
+	const legalAnimate = function() {
 
-		var legal = $('#fh5co-legal');
+		const legal = $('#fh5co-legal');
 		if ( legal.length > 0 ) {	
 
 			legal.waypoint( function( direction ) {
@@ -316,49 +315,49 @@
 	};
 
 
-	var pricingAnimate = function() {
-		var pricing = $('#fh5co-pricing');
-		if ( pricing.length > 0 ) {	
+	// var pricingAnimate = function() {
+	// 	var pricing = $('#fh5co-pricing');
+	// 	if ( pricing.length > 0 ) {	
 
-			pricing.waypoint( function( direction ) {
+	// 		pricing.waypoint( function( direction ) {
 										
-				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+	// 			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
 
 
-					setTimeout(function() {
-						pricing.find('.to-animate').each(function( k ) {
-							var el = $(this);
+	// 				setTimeout(function() {
+	// 					pricing.find('.to-animate').each(function( k ) {
+	// 						var el = $(this);
 							
-							setTimeout ( function () {
-								el.addClass('fadeIn animated');
-							},  k * 200, 'easeInOutExpo' );
+	// 						setTimeout ( function () {
+	// 							el.addClass('fadeIn animated');
+	// 						},  k * 200, 'easeInOutExpo' );
 							
-						});
-					}, 200);
+	// 					});
+	// 				}, 200);
 
-					setTimeout(function() {
-						pricing.find('.to-animate-2').each(function( k ) {
-							var el = $(this);
+	// 				setTimeout(function() {
+	// 					pricing.find('.to-animate-2').each(function( k ) {
+	// 						var el = $(this);
 							
-							setTimeout ( function () {
-								el.addClass('fadeInUp animated');
-							},  k * 200, 'easeInOutExpo' );
+	// 						setTimeout ( function () {
+	// 							el.addClass('fadeInUp animated');
+	// 						},  k * 200, 'easeInOutExpo' );
 							
-						});
-					}, 200);
+	// 					});
+	// 				}, 200);
 
 					
-					$(this.element).addClass('animated');
+	// 				$(this.element).addClass('animated');
 						
-				}
-			} , { offset: '80%' } );
+	// 			}
+	// 		} , { offset: '80%' } );
 
-		}
-	};
+	// 	}
+	// };
 
 
-	var servicesAnimate = function() {
-		var services = $('#fh5co-services');
+	const servicesAnimate = function() {
+		const services = $('#fh5co-services');
 		if ( services.length > 0 ) {	
 
 			services.waypoint( function( direction ) {
@@ -400,8 +399,8 @@
 		}
 	};
 
-	var doneAnimate = function() {
-		var done = $('#fh5co-done');
+	const doneAnimate = function() {
+		const done = $('#fh5co-done');
 		if ( done.length > 0 ) {	
 
 			done.waypoint( function( direction ) {
@@ -487,8 +486,8 @@
 	};
 
 
-	var footerAnimate = function() {
-		var footer = $('#fh5co-footer');
+	const footerAnimate = function() {
+		const footer = $('#fh5co-footer');
 		if ( footer.length > 0 ) {	
 
 			footer.waypoint( function( direction ) {
@@ -515,27 +514,26 @@
 		}
 	};
 
+	// var counter = function() {
+	// 	$('.js-counter').countTo({
+	// 		 formatter: function (value, options) {
+	//       return value.toFixed(options.decimals);
+	//     },
+	// 	});
+	// };
 
-	var counter = function() {
-		$('.js-counter').countTo({
-			 formatter: function (value, options) {
-	      return value.toFixed(options.decimals);
-	    },
-		});
-	};
-
-	var counterWayPoint = function() {
-		if ($('#fh5co-counter-section').length > 0 ) {
-			$('#fh5co-counter-section').waypoint( function( direction ) {
+	// var counterWayPoint = function() {
+	// 	if ($('#fh5co-counter-section').length > 0 ) {
+	// 		$('#fh5co-counter-section').waypoint( function( direction ) {
 										
-				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
-					setTimeout( counter , 400);					
-					$(this.element).addClass('animated');
+	// 			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
+	// 				setTimeout( counter , 400);					
+	// 				$(this.element).addClass('animated');
 						
-				}
-			} , { offset: '90%' } );
-		}
-	};
+	// 			}
+	// 		} , { offset: '90%' } );
+	// 	}
+	// };
 
 	// Document on load.
 	$(function(){
