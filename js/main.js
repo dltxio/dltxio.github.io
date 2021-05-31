@@ -645,5 +645,4 @@
 		// counterWayPoint();
 	});
 
-
 }());
