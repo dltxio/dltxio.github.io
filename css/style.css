@@ -327,6 +327,7 @@ hr {
 
 #fh5co-services,
 #fh5co-done,
+#fh5co-build,
 #fh5co-explore,
 #fh5co-team,
 #fh5co-footer,
@@ -336,6 +337,7 @@ hr {
   padding: 8em 0;
 }
 @media screen and (max-width: 768px) {
+  #fh5co-build,
   #fh5co-done,
   #fh5co-services,
   #fh5co-explore,
