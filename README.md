@@ -17,7 +17,7 @@ All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D65
 ```
 
 ## Blockchain Australia
-DLTx.io is a proud member of Blockchain Australia
+DLTx is a proud member of Blockchain Australia
 ![Blockchain-Australia](https://user-images.githubusercontent.com/8411406/118200117-cbf7ad00-b497-11eb-93b5-6e5ca886789d.png)
 
 ### Terms
