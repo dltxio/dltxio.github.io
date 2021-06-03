@@ -32,9 +32,9 @@ be deployed on services such as Microsoft Azure, Amazon AWS and Heroku.
 
 DLTx is a strict Agile software house that encourages Client/Stakeholder participation in the build process. A collaborative approach improves results by reducing waste, assumptions and expense.
 
-• Work is boxed into two-week Sprints, ensuring all Stakeholders understand the deliverables. A straightforward list of outcomes allows a mutual committment to delivery by all involved.
+• Work is boxed into two-week Sprints, ensuring all Stakeholders understand the deliverables. A straightforward list of outcomes allows a mutual committment to delivery by all involved.  
 
-• Deeper understanding of the product is gained through Client/Stakeholder attendance at the sprint planning meetings where requirements are transformed into discrete, outcome-centric units of work called 'User Stories'.
+• Deeper understanding of the product is gained through Client/Stakeholder attendance at the sprint planning meetings where requirements are transformed into discrete, outcome-centric units of work called 'User Stories'.  These focused and coherent sprint planning sessions ensure structured facilitation and clearly actionable outputs.
 
 • Stakeholders are encouraged to join the daily Stand-up Meetings (usually 10:00AM-10:15AM) either in-person or via ZOOM. Team members share their progress, concerns or potential blockers, which allows Project Leads to react immediately. This ceremony provide developers with product or business information without delay.
 
