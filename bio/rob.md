@@ -8,6 +8,8 @@ Recent roles include advisory and independent expert input into planning and del
 
 Rob is an early advocate for Blockchain / DLT adoption in construction, and serves as advisor / SME for development of platforms / solutions for this and other sectors.
 
+rob@dltx.io
+
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
