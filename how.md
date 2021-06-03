@@ -101,9 +101,9 @@ It is estimated that creation of the User Stories in addition to a two-week spri
 | Senior Developer - Consultancy, Architecture, Dev Team Lead                          | $1,500 |  2  | $ 3,000 |
 | Developer - API Development, HTML/CSS/JavaScript, Backend coding                     | $  800 | 10  | $ 8,000 |
 | Business Analyst - Requirements gathering, documentation, Project Management         | $1,000 | 1.5 | $ 1,500 |
-|Subtotal                                                                                       |     | $12,500 |
-|GST %                                                                                          | 10  | $ 1,250 |
-|Total (inc gst)                                                                                |     | $13,750 |
+|Subtotal                                                                                       |     |  |$12,500
+|GST %                                                                                          | 10  || $ 1,250 
+|Total (inc gst)                                                                                |     | |$13,750 
 
 
 # Notes
