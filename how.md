@@ -1,8 +1,8 @@
 # The Philosophy
 
-• Communicate early and often. Delivering software solutions is often complex and complications can arise. Open and honest communication allows problems to be quickly resolved or mitigated.
+• Communication is paramount. Delivering complex software solutions requires open and honest communication to resolve problems and mitigate risk.
 
-• Invest in future proofing. Solutions should be used and have a long and productive life. Good architecture provides a solid backbone and on-going flexibility to assist with changing requirements.
+• Invest in future proofing. Correct architecture provides solutions with longevity that provides a solid backbone with ongoing flexibility to assist with changing requirements.
 
 • Reputation is everything. Marketing can lift your profile, but endorsement is about satisfied clients.
 
@@ -23,26 +23,26 @@ It is an open source and highly performant JavaScript runtime environment used b
 Uber and LinkedIn.
 
 • Front-end will be delivered in the modern JavaScript framework “React” (developed by Facebook). React Native is used to
-develop native iOS and Android apps in parallel, reducing delivery times and minimizing outlay.
+develop native iOS and Android apps in parallel, reducing delivery times and minimising outlay.
 
 • Digital Ocean is preferred for hosting, providing excellent uptime and pricing structure. Alternatively, the solution can
-be deployed on services such as Microsoft Azure, Amazon AWS, Heroku.
+be deployed on services such as Microsoft Azure, Amazon AWS and Heroku.
 
 # The Build
 
-DLTx is a strict Agile software house and encourage participation in the build process. A collaborative approach improves results by reducing waste, assumptions and expense.
+DLTx is a strict Agile software house that encourages Client/Stakeholder participation in the build process. A collaborative approach improves results by reducing waste, assumptions and expense.
 
-• Work is boxed to two-week Sprints, ensuring all stakeholders can understand the deliverables. A straightforward list of outcomes allows a mutual commitment to delivery by all involved.
+• Work is boxed into two-week Sprints, ensuring all Stakeholders understand the deliverables. A straightforward list of outcomes allows a mutual committment to delivery by all involved.  
 
-• Deeper understanding of the product is gained through client/stakeholder attendance at the sprint planning meetings where requirements are transformed into discrete, outcome-centric units of work called User Stories.
+• Deeper understanding of the product is gained through Client/Stakeholder attendance at the sprint planning meetings where requirements are transformed into discrete, outcome-centric units of work called 'User Stories'.  These focused and coherent sprint planning sessions ensure structured facilitation and clearly actionable outputs.
 
-• Stakeholders are encouraged to join the daily Stand-up Meetings (usually 10:00AM-10:15AM) either in-person or via ZOOM. Team members share their progress, any potential blockers or concerns. This ceremony allows Project Leads to react immediately and provide developers with product or business information without delay.
+• Stakeholders are encouraged to join the daily Stand-up Meetings (usually 10:00AM-10:15AM) either in-person or via ZOOM. Team members share their progress, concerns or potential blockers, which allows Project Leads to react immediately. This ceremony provide developers with product or business information without delay.
 
-• Jira is a flexible and powerful tool used to track workflow and provide overview via reporting. Team members self-assign work, usually choosing the task best suited to their competencies. Stakeholders are encouraged to use their access to monitor Velocity, Burn Down and other metrics along with the progress of each individual User Story.
+• Jira is a flexible and powerful tool used to track workflow and provide overview via reporting. Team members self-assign work, usually choosing the task best suited to their competencies. Stakeholders are encouraged to use their access to monitor velocity, burn down and other metrics along with the progress of each individual User Story.
 
 # The IP
 
-• All artefacts, code, scripts, images etc. are delivered at the end of each sprint via GitHub or similar. Not only does this safeguard your investment, it allows immediate and direct collaboration with a Client's in-house or external dev teams.
+• All artefacts, code, scripts, images, etc are delivered at the end of each sprint via GitHub or similar. Not only does this safeguard your investment, it allows immediate and direct collaboration with Client's in-house or external dev teams.
 
 • GitHub (recently acquired by Microsoft for $7.5 billion in stock) is the leading code repository.
 
@@ -52,19 +52,19 @@ DLTx is a strict Agile software house and encourage participation in the build p
 
 **The Opportunity**
 
-Based on our discussions, we understand the opportunity to be:
+Based on our discussions, we understand the opportunity to:
 Provide architectural advice, Business Analysis and development services in producing a Minimum Viable Product (MVP) for a .... platform that will ...
 
 # The Solution
 
 **Workshop**
 
-DLTx will conduct a half-day workshop, drawing on the proponent’s ideation and aimed at producing a basic Story Map which will in turn be used to generate the User Stories for eventual production. The Workshop will be conducted on-site at dltx and be facilitated by a Business Analyst (BA), with additional input from a Senior Developer and other team members as required.
+DLTx will conduct a half-day workshop, drawing on the proponent’s ideas and is aimed at producing a basic Story Map which will in turn be used to generate the User Stories for eventual production. The Workshop will be conducted on-site at dltx and be facilitated by a Business Analyst (BA), with additional input from a Senior Developer and other team members as required.
 
-A written report summarising the Workshop outcomes will be provided which should: 
+A written report summarising the Workshop outcomes will be provided. The report will: 
 
 1. Clarify additional contributions required from Subject Matter Experts
-2. Identify any needs for further technical research in terms of production
+2. Identify needs for further technical research in terms of production
 3. Provide a broad understanding of relevant compliance and regulatory issues
 4. Allow the participant/s to consider the how the proposed project fits with their business model
 
@@ -113,7 +113,7 @@ It is estimated that creation of the User Stories in addition to a two-week spri
 
 1. All prices are in AUD and are ex-GST except where noted.
 2. Workshop date to be confirmed on receipt of initial payment ($750).
-3. Further proposal for Production and deposit of $3000 will be provided with Workshop Report.
+3. Further proposal for production and deposit of $3000 to be made with Workshop Report.
 4. Final payment to be invoiced on handover and acceptance.
 5. BTC or ETH payments can be arranged at an agreed AUD rate.
 

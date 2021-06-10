@@ -7,9 +7,9 @@
 - Keybase: BitcoinBrisbane
 - Skills: Solidity, c#, NodeJS, React, Haskell, Python
 
-Cross Counter (Mac Mini):
+DLTx01 (Ubuntu Desktop):
 ```text
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDB47XyILMWtKlH346LDKbZAtZpp9oR8jzn7wOQP0RL0XKZ7sZw9Zl3gkKGbL/ItE7jgR3sl5XxcZTxwn645cgai35TwoDs/woUHMBh9TOMnuLcEnB0v21xGWD/rWzMzCT+pYnKcxdmXssu9xKxnV+J2xl7ZtzwKk3pS65JTtYIP4zREZG3OKbH9145B882V0bNeXkMu41nYmFxutZ902VWWCc7jOU84ZGDufvhWlbszeuqDt+ntTwzXJWb5XO65Tt7onVU+UWP0+q90ZzMsxH2vJ/ezgqMdhjuzKu/Yv+15ba3iv+zyEFKo6MthYi+zAWhFsbFmLfyeFyx9lneh3Zt lucascullen@Cross-Counter.local
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDAJtBuUWBE7JJALTwQyBWpTFtJKUjHcgrZvQ91H7NkarawMNCFQ6W2LTOuR3g8YuSOFmaOi+uPZv822cv6BVru6J4hDzOSBC9egdPaFbRwheDSKEFSlNELTQM9cNfuyIUu8pIMFpBj0eJMyDLVb6H6fzhoqaVMTUFUU2f/Tg+gtgIV62/7Wc4V7V4wy4sXzJ4l5v2Ma1e594MzMpNbyQqVDZfp+IOjsW//UPHXEzKwzTWGQuKvso2/sEgSkv78o5/4tdEaZ0I50Uzh++7nd8w3oZP/bdP6X5KNDFHvY1DlboEY6I0TMP6ZZ2faAZ+fPfgqX9KNN7lzg70NEXiE6idVXu2oi/r52K8zEsKanIMvw7guVye7pm7yf6IAfLhS599PjkkrfZ8GpUeffruyhoJ/UeM3H9w/Uya5xNe42NkRtwr5RqVFPM1BK1BDUmkdmz8/6Z331NB8T/K2WB3rU+eW0ZHxVun/KmpGtd3+ohRYqs6UqBnalE5u+16ql/Sp4ds= lucascullen@dltx01
 ```
 
 Sub Zero (Ubuntu Desktop):
@@ -26,7 +26,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDbyjs0UIM0giLCHDfAeCqgpcCo7op0s23bX7PwzdH
 
 `9214 979F 5310 8E65 60E6 21BC EBBB B03B 58C8 9CDC`
 
-PGP Public Key: `/assets/LUCAS CULLEN (58C89CDC).asc`
+PGP Public Key: `./pgp/lucas@dltx.io.asc`
 
 ## Alex Xiang
 
@@ -65,9 +65,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCaMc5G5m+vd1TPMDOe6BOBGGTZO4fNwmvPaY8o9mDY
 
 - Github: ahinchliff
 
-
 ```text
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCgy0NVFJCTMEsK6O8ERXAl/bcq6aZ+Na3LLOOGFYaomQ5/djJSYUxGhez827xH+FbZ5KpFrJDodeasXal8XyCdHTsR1MA7vBa3SR/Oea8Y2Yjf1YJln7IIbMkiF0gSkLmtdHBNxPAKl5ElSx+xsz6/F3mXPhKzQQ+Yxoc/92esgpKstItDiPiQi26zyTQrHwwF3GxNQFM+Ps3cyXH1Gb0NeimI7mJQPemIYmmGyIn40bMrC3pUfj53pZNHeBDu0FGSo84STUgzYdBjfOFIkV7MIVPmhUmr2yTQaExVS1pK0vkMb+hHXS0BAlzjpyKRyu8qWcqLp4Myu3Mi4RZQC9H+2MKv7ekkGp9/eJynrR6yzE7nm7q/UVJE16wvhAOkxBCg9Lb8gMFPaN7yy1Qb5MyywIzOaR2i8hvhBRIL0rd3ADzChSIGnUYP7o+PZOEf2/mApC1iPy6esxR22rdDPoJ6hXT5iW4kZFYZ+b2Eb26Um3rXdZWBi+KaSLGJU3FtrXk= anthony.hinchliff@gmail.com
-
 ```
 
