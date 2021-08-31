@@ -4,15 +4,15 @@ Brisbane's Blockchain, Smart Contract and Crypto Developers.
 
 ![dltx-svgAsset 1](https://user-images.githubusercontent.com/8411406/118200149-d9ad3280-b497-11eb-9df3-df4a17b6070a.png)
 
-All our smart contracts will be signed from `0xCd77419B5c5D1917e92416e35e16c4D657Fd49Ae`
+All our smart contracts will be signed from `0xfa0B65413E3E81FAF7321f85b2AfdD0EffF13Ef5`
 
 ```json
 {
-  "address": "0xcd77419b5c5d1917e92416e35e16c4d657fd49ae",
-  "msg": "This key belongs to DLTx.io",
-  "sig": "0x8e9028b5ccd5b4a300beb5e96e7bce2fe3cfb6878e993e13f91d21af091a2e5158be99efb2ab731c4758964c4cc5da11c07a99396e35f5f34c473469256d544d1c",
+  "address": "0xfa0b65413e3e81faf7321f85b2afdd0efff13ef5",
+  "msg": "This address belongs to DLTx.io",
+  "sig": "0xc9bd69fca1fc45bfb297026064b92fa37a338bf4360dcf07bcec483751a836a956e66a46c6e4b06e036f1c0150eeb90ff7ad3bcac047106fec1bf288d990809401",
   "version": "3",
-  "signer": "MEW"
+  "signer": "ledger"
 }
 ```
 
