@@ -15,7 +15,7 @@
 *	Edit this section
 *
 * ======================================================= 
-THE CSS FOR THE MESH PAGE 
+THE CSS FOR THE MESH PAGE BELOW 
 /*========================================================*/
 .grid-container {
   display: grid;
@@ -26,7 +26,7 @@ THE CSS FOR THE MESH PAGE
   padding-bottom: 400px;
 }
 
-.circular--landscape {
+.circular-landscape {
   display: inline-block;
   position: relative;
   width: 200px;
@@ -36,7 +36,7 @@ THE CSS FOR THE MESH PAGE
   border: 2px solid #ffffff;
 }
 
-.circular--landscape img {
+.circular-landscape img {
   width: auto;
   height: 100%;
   margin-left: -50px;
@@ -47,7 +47,7 @@ THE CSS FOR THE MESH PAGE
 }
 
 /*==========================================================
-THE CSS FOR THE CAREERS PAGE
+THE CSS FOR THE CAREERS PAGE BELOW
 /*=================================================*/
 .grid-careers {
   display: grid;
@@ -57,7 +57,7 @@ THE CSS FOR THE CAREERS PAGE
   margin-left: 50px;
 }
 
-.circular--careers {
+.circular-careers {
   background-color: white;
   display: inline-block;
   position: relative;
@@ -68,7 +68,7 @@ THE CSS FOR THE CAREERS PAGE
   border: 2px solid #ffffff;
 }
 
-.circular--careers img {
+.circular-careers img {
   width: 70%;
   height: 70%;
   margin-left: 5px;
@@ -80,15 +80,15 @@ THE CSS FOR THE CAREERS PAGE
   padding-bottom: 50%;
 }
 /*=================================================
-Client PAGE CSS 
+Client PAGE CSS BELOW
 /*=================================================*/
 
-.client--styling {
+.text-colour {
   color: #ffffff;
 }
 
 /*=================================================
-Client PAGE CSS 
+OTHER BELOW 
 /*=================================================*/
 body {
   font-family: "Inconsolata", Arial, sans-serif;
