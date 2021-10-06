@@ -80,7 +80,15 @@ THE CSS FOR THE CAREERS PAGE
   padding-bottom: 50%;
 }
 /*=================================================
-OTHER 
+Client PAGE CSS 
+/*=================================================*/
+
+.client--styling {
+  color: #ffffff;
+}
+
+/*=================================================
+Client PAGE CSS 
 /*=================================================*/
 body {
   font-family: "Inconsolata", Arial, sans-serif;
