@@ -83,8 +83,8 @@ THE CSS FOR THE CAREERS PAGE BELOW
 Client PAGE CSS BELOW
 /*=================================================*/
 
-.text-colour {
-  color: #ffffff;
+#fh5co-clients a {
+  color: #cccccc;
 }
 
 /*=================================================
