@@ -1,1 +1,72 @@
+==================================================================
+https://keybase.io/dltx
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of https://dltx.io
+  * I am dltx (https://keybase.io/dltx) on keybase.
+  * I have a public key with fingerprint 31C3 DF95 1686 F51D 882C  7457 0D29 3492 5D21 9FFA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e7b4e105bb9b964814d503c5765dba5277dbff69c28bc493cd16d9b447051e9b0a",
+      "fingerprint": "31c3df951686f51d882c74570d2934925d219ffa",
+      "host": "keybase.io",
+      "key_id": "0d2934925d219ffa",
+      "kid": "0101e7b4e105bb9b964814d503c5765dba5277dbff69c28bc493cd16d9b447051e9b0a",
+      "uid": "b4e2bb9a4b4d766e4bba4d130946a119",
+      "username": "dltx"
+    },
+    "service": {
+      "hostname": "dltx.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1634639319,
+  "expire_in": 157680000,
+  "prev": "4f39fd3cbd8f573554653ab05cf79991ee4437fd0a60000e773c23dc966fa5c0",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUntQVFUcXgRDGJHQ5FFt5BWsaMN79772bukEEjSOYiqBPHS5j3PhBt1dd6/s
+bgiMNtLKyGjyEJWHIunAUGaOg5kMwyDMIK+wWKJEYMIktYhntKXbvZozzfRv558z
+5zvf953v+8054uep8vXwewU7unNVjcuj62dGRYtVo7kQY+TskD4XygKPNpDNAYtk
+yBI4SA/BCIwAksEAAuMMQzEUgekQjMNhlMVJAucYGteSJMfwPEGxWh3DYhTKcgjB
+UQyGkTCOAIqBaUgD8YKYAcwmsyBKsi2KsCjHUzhC6AgeRzidTsuSGE7CnJZCMUqL
+c1qE4nlFmGm0KAo5HENbQKRglDH5YHgc77/8/zn3nkd2spFWtqExBuNIggAYw9AY
+h6AwhRE0glAK0QLMIv0+kNlctmSD8jSQjOQILFCGqrT41+3jGiazUTKyxmwZzJQk
+k0WviCS7SWFZAWP4R29gBJGTxycrcoDZIhhFSI/ITFYSFEOEQDECpVCE0kDAZhLM
+wCAoDLmnDpaX8g7IkS0xHqV4DmUZTsfjJIpvwTECR2kGxlmepCgKAQDDUJLnYJpQ
+hIAkUVaLcixFEDyNszCkVNotGiE9JuekM2RPi5Ah0tIeM4DyfA8uQr1UHr4qdeAq
+L6RtpCywcE7t0EhJT77c4kXKf1P5+jz9BFFF+T8Mf/BSf3PAM0lBHedKvzh0VUtk
+uUDsmPvF5Jji+vsbj9kjVpd6+q+f3NsUeSmldcO1imNsS4yzca0q7kNz9WVHgYPe
+bKpK+ik/xflJY0PT8MyNzeeRBCK07EplS9vze+8vG9j69v7Ff8ReHotI7aVPbErO
+3053/eVIDC7ZYelu/Kz+uYKzBYGdznuOmN4Vyyr80pIJ79Mha6crU29XzwWVT9i6
+lsYD9+SIp3tlaNjvabOagZv7pu9sOxMw8Wv7AdOmI0uvRVwMOqV5b/T8zLhvB3Tc
+HRZwIb9kecdyzwdJd59ylp86U7SwcMXVNP+5T+7XBrVzd3StTbW/dmohN2j1uYND
+3lAPPxbX2xh39Xrem59addbGW94tM61lZ+sa6m9vSzFb0/k5tn8UaU/v/CppuPT6
+zFR39ET0OnJ88vVbS16DmF8SW7N3/VbcR1Qcf/WjguEf1t2cDmppCqnb6f/CWxsq
+XSclPFjVlzl6VwwvWvPBndP5UvHhqJ5LA+32kjVCVWVhcs6gV/NU56H8Zx+u3Gdp
+sKW5XkZ31LZZM51fDoU5iJDy4D+jkK3FtpEVobg6df6CO/7oYOxU1uGh2SUVP3ZI
+s6ZdF0u/6/94Yct4Iv99YU/dbGj8+KR+o8+gq/uN5vSohJrmebs7YU7sJ62iumx9
+8r0bkaaad6oT7OGhRdu/UXN971q+Lfwb
+=uYSs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dltx
+
+==================================================================
