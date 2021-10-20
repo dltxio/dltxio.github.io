@@ -11,19 +11,18 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
-* ======================================================= 
-THE CSS FOR THE MESH PAGE BELOW 
+* =======================================================
+THE CSS FOR THE MESH PAGE BELOW
 /*========================================================*/
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
-  grid-row-gap: 150px;
-  grid-column-gap: 50px;
-  align-content: center;
-  padding-bottom: 400px;
+  grid-template-columns: repeat(3, minmax(60px, 1fr));
+  grid-gap: 50px;
+  width:100%;
+  padding-bottom: 100px;
 }
 
 .circular-landscape {
@@ -88,7 +87,7 @@ Client PAGE CSS BELOW
 }
 
 /*=================================================
-OTHER BELOW 
+OTHER BELOW
 /*=================================================*/
 body {
   font-family: "Inconsolata", Arial, sans-serif;
@@ -470,6 +469,8 @@ hr {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+
+
 @media screen and (max-width: 768px) {
   .fh5co-project .project-grid .desc {
     opacity: 1;
@@ -628,6 +629,8 @@ hr {
   background-position: center center;
   position: relative;
 }
+/***MESH PAGE TABLET STYLES***/
+
 @media screen and (max-width: 768px) {
   .core-features .grid2 {
     width: 100%;
@@ -1037,7 +1040,6 @@ hr {
     float: none;
     width: 100%;
   }
-}
 
 .row-bottom-padded-lg {
   padding-bottom: 7em;
