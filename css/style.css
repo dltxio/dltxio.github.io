@@ -20,11 +20,13 @@ THE CSS FOR THE MESH PAGE BELOW
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, minmax(60px, 1fr));
-  grid-gap: 10%;
-  width:100%;
+  grid-column-gap: 25%;
+  grid-row-gap: 5%;
+  width: 85%;
   padding-bottom: 100px;
   margin: 10px;
   text-align: center;
+  justify-content: center;
 }
 
 figure {
@@ -34,16 +36,17 @@ figure {
   border-radius: 50%;
   border: 2px solid #ffffff;
   margin: 5px;
-  justify-self: center;
 }
 
 .circular-landscape img {
-  width: 100%;
-  margin-bottom: -100px;
+  width: 150%;
+  height: 100%;
+  margin-left: -50px;
 }
 
 .div-text {
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .div-text p{
