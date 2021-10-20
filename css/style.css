@@ -11,39 +11,45 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
-* ======================================================= 
-THE CSS FOR THE MESH PAGE BELOW 
+* =======================================================
+THE CSS FOR THE MESH PAGE BELOW
 /*========================================================*/
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
-  grid-row-gap: 150px;
-  grid-column-gap: 50px;
-  align-content: center;
-  padding-bottom: 400px;
+  grid-template-columns: repeat(3, minmax(60px, 1fr));
+  grid-gap: 10%;
+  width:100%;
+  padding-bottom: 100px;
+  margin: 10px;
+  text-align: center;
 }
 
-.circular-landscape {
-  display: inline-block;
-  position: relative;
+figure {
   width: 200px;
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
   border: 2px solid #ffffff;
+  margin: 5px;
+  justify-self: center;
 }
 
 .circular-landscape img {
-  width: auto;
-  height: 100%;
-  margin-left: -50px;
+  width: 100%;
+  margin-bottom: -100px;
 }
 
 .div-text {
   text-align: center;
+}
+
+.div-text p{
+  margin: 5px;
+  padding: 0;
+  font-size: 24px;
 }
 
 /*==========================================================
@@ -88,7 +94,7 @@ Client PAGE CSS BELOW
 }
 
 /*=================================================
-OTHER BELOW 
+OTHER BELOW
 /*=================================================*/
 body {
   font-family: "Inconsolata", Arial, sans-serif;
@@ -470,6 +476,8 @@ hr {
   -o-transition: 0.3s;
   transition: 0.3s;
 }
+
+
 @media screen and (max-width: 768px) {
   .fh5co-project .project-grid .desc {
     opacity: 1;
@@ -628,6 +636,8 @@ hr {
   background-position: center center;
   position: relative;
 }
+/***MESH PAGE TABLET STYLES***/
+
 @media screen and (max-width: 768px) {
   .core-features .grid2 {
     width: 100%;
@@ -1037,7 +1047,6 @@ hr {
     float: none;
     width: 100%;
   }
-}
 
 .row-bottom-padded-lg {
   padding-bottom: 7em;
@@ -1046,25 +1055,20 @@ hr {
   .row-bottom-padded-lg {
     padding-bottom: 2em;
   }
-}
 
 .row-bottom-padded-md {
   padding-bottom: 4em;
-}
-@media screen and (max-width: 768px) {
+
   .row-bottom-padded-md {
     padding-bottom: 2em;
   }
-}
 
 .row-bottom-padded-sm {
   padding-bottom: 2em;
 }
-@media screen and (max-width: 768px) {
   .row-bottom-padded-sm {
     padding-bottom: 2em;
   }
-}
 
 .fh5co-animated {
   -webkit-animation-duration: 0.3s;
@@ -1077,7 +1081,6 @@ hr {
   margin-bottom: 1em;
 }
 
-@media screen and (max-width: 768px) {
   .affiliates {
     margin-bottom: 3em;
   }
@@ -1097,4 +1100,14 @@ hr {
 
 .costRates {
   float: right;
+}
+
+  figure {
+    width: 100px;
+    height: 100px;
+  }
+
+  .div-text p{
+    font-size: 18px;
+  }
 }
