@@ -425,6 +425,7 @@ hr {
 }
 
 #fh5co-services,
+#fh5co-holocracy,
 #fh5co-explore,
 #fh5co-team,
 #fh5co-footer,
@@ -435,6 +436,7 @@ hr {
 }
 @media screen and (max-width: 768px) {
   #fh5co-services,
+  #fh5co-holocracy,
   #fh5co-explore,
   #fh5co-team,
   #fh5co-footer,
