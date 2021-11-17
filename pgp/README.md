@@ -24,3 +24,7 @@ Our default key server is keys.openpgp.org.  Navigate to https://keys.openpgp.or
 
 
 ## Using Canary
+
+
+## Using MacMail
+
