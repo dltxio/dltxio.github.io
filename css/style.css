@@ -1,4 +1,17 @@
 /* =======================================================
+---------------PAGE ANIMATION STYLES----------------------
+========================================================*/
+.fh5co-animated {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+.js .to-animate{
+  opacity: 0;
+}
+/* =======================================================
 ----------------GLOBAL STYLES--------------------------
 ========================================================*/
 body{
@@ -12,6 +25,10 @@ body{
   font-size: 18px;
   text-align: center;
   margin-bottom: 2rem;
+}
+
+header{
+  height: 100vh;
 }
 
 header,
@@ -76,7 +93,7 @@ a:hover{
   width: 100%;
   list-style: none;
   text-align: center;
-  font-size: 1.333rem;
+  font-size: 2rem;
   margin: 0;
   padding: 0;
 }
@@ -133,6 +150,7 @@ a {
 /* =======================================================
 ----------------ABOUT PAGE STYLES--------------------------
 ========================================================*/
+.about,
 .values{
   display: flex;
   flex-flow: row wrap;
@@ -140,14 +158,28 @@ a {
   align-items: center;
 }
 
-.agile-logo{
-  background-color: #fff;
-  width: 20%;
+.values img{
   border-radius: 12px;
 }
 
-.values h3{
-  width: 100%;
+.agile-logo{
+  background-color: #fff;
+  border-radius: 12px;
+  color: #000;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  margin: 2rem;
+}
+
+.agile-logo img{
+  width: 20%;
+}
+
+.agile-logo h3{
+  width: 60%;
+  font-size: 5rem;
+  margin: 0;
 }
 
 footer{
@@ -190,11 +222,9 @@ footer{
 }
 
 .services-descriptions{
-  display: grid;
-  grid-template-columns: 45% 45%;
+  display: flex;
+  flex-flow: column;
   justify-content: center;
-  align-items: center;
-  grid-gap: 1rem;
 }
 
 .service{
@@ -284,6 +314,14 @@ footer{
 
   .socials li{
     width: 15%;
+  }
+
+  .services-descriptions{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    justify-content: center;
+    align-items: center;
+    grid-gap: 1rem;
   }
 }
 
