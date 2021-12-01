@@ -1,6 +1,11 @@
 /* =======================================================
 ---------------PAGE ANIMATION STYLES----------------------
 ========================================================*/
+#fh5co-header {
+  position: relative;
+  animation: none;
+}
+
 .fh5co-animated {
   -webkit-animation-duration: 0.5s;
   animation-duration: 0.5s;
@@ -91,10 +96,16 @@ a:hover{
 
 .navbar{
   width: 100%;
-  list-style: none;
   text-align: center;
   font-size: 2rem;
   margin: 0;
+  padding: 0;
+}
+
+.navbar ul{
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
   padding: 0;
 }
 
@@ -132,6 +143,7 @@ a {
   grid-template-areas: 
   "icon text";
   grid-template-columns: 15% 80%;
+  align-items: center;
 }
 
 .find-us i{
@@ -268,9 +280,6 @@ footer{
 ----------------TRIAL DAY PAGE STYLES----------------------
 ========================================================*/
 
-
-
-
 /* =======================================================
 ----------------MEDIA QUERIES-----------------------------
 ---------For mobile styles, change the CSS above----------
@@ -301,9 +310,19 @@ footer{
   p{
     font-size: 1.5rem;
   }
-  
+
   .navbar{
-    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar ul{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: 0;
+    width: 80%;
+    font: 2rem
   }
 
   .socials{
