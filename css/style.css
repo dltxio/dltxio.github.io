@@ -183,6 +183,17 @@ a {
   max-width: 10rem;
 }
 
+.agile-logo h3 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+footer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
 /* =======================================================
 ----------------MESH PAGE STYLES--------------------------
 ========================================================*/
