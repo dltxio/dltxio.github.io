@@ -180,6 +180,7 @@ a {
   flex-flow: row wrap;
   align-items: center;
   margin: 2rem;
+  max-width: 10rem;
 }
 
 .agile-logo img {
@@ -187,8 +188,7 @@ a {
 }
 
 .agile-logo h3 {
-  width: 60%;
-  font-size: 5rem;
+  font-size: 3rem;
   margin: 0;
 }
 
