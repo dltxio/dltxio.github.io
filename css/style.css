@@ -182,15 +182,11 @@ a {
   flex-flow: row wrap;
   align-items: center;
   margin: 2rem;
-}
-
-.agile-logo img{
-  width: 20%;
+  max-width: 10rem;
 }
 
 .agile-logo h3{
-  width: 60%;
-  font-size: 5rem;
+  font-size: 3rem;
   margin: 0;
 }
 
