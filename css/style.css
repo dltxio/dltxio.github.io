@@ -119,12 +119,12 @@ a {
   justify-content: space-between;
   list-style: none;
   width: 100%;
-  font-size: 3rem;
+  font-size: 2rem;
   padding: 0;
 }
 
 .socials li {
-  width: 30%;
+  width: 5%;
 }
 
 /* =======================================================
@@ -326,7 +326,7 @@ footer {
   }
 
   .socials li {
-    width: 15%;
+    width: 0%;
   }
 
   .services-descriptions {
@@ -368,7 +368,7 @@ footer {
   }
 
   .socials {
-    width: 85%;
+    width: 100%;
     margin: 0;
     font-size: 6rem;
   }
