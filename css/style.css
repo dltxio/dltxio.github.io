@@ -2,7 +2,6 @@
 ---------------PAGE ANIMATION STYLES----------------------
 ========================================================*/
 #fh5co-header {
-  position: relative;
   animation: none;
 }
 
@@ -13,32 +12,32 @@
   animation-fill-mode: both;
 }
 
-.js .to-animate{
+.js .to-animate {
   opacity: 0;
 }
 /* =======================================================
 ----------------GLOBAL STYLES--------------------------
 ========================================================*/
-body{
+body {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
   background-color: #000;
   color: #fff;
-  font-family: 'Inconsolata', monospace;
+  font-family: "Inconsolata", monospace;
   font-size: 18px;
   text-align: center;
   margin-bottom: 2rem;
 }
 
-header{
+header {
   height: 100vh;
 }
 
 header,
 main,
-section{
+section {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -46,17 +45,17 @@ section{
   width: 100%;
 }
 
-img{
+img {
   width: 85%;
   margin: 1.5rem auto;
 }
 
-header img{
+header img {
   width: 80px;
   margin: 1rem auto;
 }
 
-h1{
+h1 {
   width: 100%;
   text-align: center;
   font-size: 2.5rem;
@@ -65,36 +64,36 @@ h1{
   padding: 1.5rem;
 }
 
-h2{
+h2 {
   font-size: 1.85rem;
   width: 100%;
 }
 
-h3{
+h3 {
   font-size: 1.5rem;
   font-weight: bolder;
   width: 100%;
 }
 
-p{
+p {
   font-size: 1.333rem;
   width: 85%;
 }
 
-ul{
+ul {
   list-style: none;
 }
 
-i{
-  color: #8C7676;
+i {
+  color: #8c7676;
 }
 
-a:hover{
-  color: #8C7676;
+a:hover {
+  color: #8c7676;
   cursor: pointer;
 }
 
-.navbar{
+.navbar {
   width: 100%;
   text-align: center;
   font-size: 2rem;
@@ -102,7 +101,7 @@ a:hover{
   padding: 0;
 }
 
-.navbar ul{
+.navbar ul {
   display: flex;
   flex-flow: column;
   justify-content: center;
@@ -114,7 +113,7 @@ a {
   text-decoration: underline;
 }
 
-.socials{
+.socials {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
@@ -124,38 +123,37 @@ a {
   padding: 0;
 }
 
-.socials li{
+.socials li {
   width: 30%;
 }
 
 /* =======================================================
 ----------------HOME PAGE STYLES--------------------------
 ========================================================*/
-.find-us{
+.find-us {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
   justify-content: center;
 }
 
-.find-us li{
+.find-us li {
   display: grid;
-  grid-template-areas: 
-  "icon text";
+  grid-template-areas: "icon text";
   grid-template-columns: 15% 80%;
   align-items: center;
 }
 
-.find-us i{
+.find-us i {
   grid-area: "icon";
 }
 
-.find-us p{
+.find-us p {
   grid-area: "text";
   text-align: left;
 }
 
-.affiliates img{
+.affiliates img {
   width: 50%;
 }
 
@@ -163,18 +161,18 @@ a {
 ----------------ABOUT PAGE STYLES--------------------------
 ========================================================*/
 .about,
-.values{
+.values {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
 }
 
-.values img{
+.values img {
   border-radius: 12px;
 }
 
-.agile-logo{
+.agile-logo {
   background-color: #fff;
   border-radius: 12px;
   color: #000;
@@ -185,12 +183,12 @@ a {
   max-width: 10rem;
 }
 
-.agile-logo h3{
+.agile-logo h3 {
   font-size: 3rem;
   margin: 0;
 }
 
-footer{
+footer {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -199,23 +197,23 @@ footer{
 /* =======================================================
 ----------------MESH PAGE STYLES--------------------------
 ========================================================*/
-.join-mesh ul{
+.join-mesh ul {
   padding: 0;
   width: 100%;
 }
 
-.meet-mesh{
+.meet-mesh {
   display: grid;
-  grid-template-areas: 
-  "header header header"
-  "item1 item2 item3"
-  "item4 item5 item6"
-  "item7 item8 item9";
+  grid-template-areas:
+    "header header header"
+    "item1 item2 item3"
+    "item4 item5 item6"
+    "item7 item8 item9";
   grid-template-columns: 30% 30% 30%;
   align-items: flex-start;
 }
 
-.meet-mesh img{
+.meet-mesh img {
   border-radius: 50%;
   border: #fff solid 2px;
 }
@@ -223,25 +221,25 @@ footer{
 /* =======================================================
 ----------------SERVICES PAGE STYLES----------------------
 ========================================================*/
-.clients{
+.clients {
   list-style: square;
   text-align: left;
   margin: 1rem;
 }
 
-.services-descriptions{
+.services-descriptions {
   display: flex;
   flex-flow: column;
   justify-content: center;
 }
 
-.service{
+.service {
   display: flex;
   flex-flow: column;
   justify-content: center;
 }
 
-.service p{
+.service p {
   width: 100%;
 }
 
@@ -252,20 +250,20 @@ footer{
 /* =======================================================
 ----------------CAREERS PAGE STYLES----------------------
 ========================================================*/
-.careers{
+.careers {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
 }
 
-.careers img{
-  background-color: #8C7676;
+.careers img {
+  background-color: #8c7676;
   border-radius: 50%;
   width: 25%;
 }
 
-.role-available{
+.role-available {
   display: flex;
   flex-flow: column;
   justify-content: center;
@@ -285,53 +283,53 @@ footer{
 /* Styles for tablet or larger */
 @media screen and (min-width: 768px) {
   /*-------Global Styles---------*/
-  header img{
+  header img {
     width: 220px;
   }
-  
-  h1{
+
+  h1 {
     font-size: 4rem;
   }
-  
-  h2{
+
+  h2 {
     font-size: 3.333rem;
   }
 
-  h3{
+  h3 {
     font-size: 2.666rem;
     font-weight: bolder;
     width: 100%;
   }
-  
-  p{
+
+  p {
     font-size: 1.5rem;
   }
 
-  .navbar{
+  .navbar {
     display: flex;
     justify-content: center;
   }
-  
-  .navbar ul{
+
+  .navbar ul {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     padding: 0;
     width: 80%;
-    font: 2rem
+    font: 2rem;
   }
 
-  .socials{
+  .socials {
     width: 85%;
     margin: 0;
     font-size: 4rem;
   }
 
-  .socials li{
+  .socials li {
     width: 15%;
   }
 
-  .services-descriptions{
+  .services-descriptions {
     display: grid;
     grid-template-columns: 45% 45%;
     justify-content: center;
@@ -343,36 +341,35 @@ footer{
 /* Styles for desktop or larger */
 @media screen and (min-width: 1200px) {
   /*-------Global Styles---------*/
-  header img{
+  header img {
     width: 220px;
   }
-  
-  h1{
+
+  h1 {
     font-size: 5.333rem;
   }
-  
-  h2{
+
+  h2 {
     font-size: 2.6666rem;
   }
 
-  h3{
+  h3 {
     font-size: 2.3333rem;
     font-weight: bolder;
     width: 100%;
   }
-  
-  p{
+
+  p {
     font-size: 2rem;
   }
-  
-  .navbar{
+
+  .navbar {
     font-size: 2.666rem;
   }
 
-  .socials{
+  .socials {
     width: 85%;
     margin: 0;
     font-size: 6rem;
   }
-
 }
