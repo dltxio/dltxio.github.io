@@ -92,29 +92,23 @@ On acceptance of this proposal, dltx will invoice for $750 to provide the Worksh
   
 **Production**
 
-It is estimated that creation of the User Stories in addition to a two-week sprint will require the following effort:
+It is estimated that creation of the User Stories in addition to a two-week sprint will require the following team:
 
 ### EXAMPLE
 
-| __Resource__ | __Day Rate__ | __Effort__ | __Cost__ |
+| __Resource__ | __Effort__ |
 |-------------|------------|------------|------------|
-| Software Architect, Smart Contract Developer                 | $1,600 | 2  |$3,200   |
-| Technical Lead, Senior Developer                             | $1,400 | 2  | $2,800  |
-| Business Analyst                                             | $1,200 | 1  | $1,200  |
-| Full Stack Developer                                         | $1000  | 10 | $10,000 |
-| Developer                                                    | $720   | 2  | $1,440  |
-| Tester, testing acceptance and quality control               | $600   | 2  | $600    |  
-| Subtotal        | |    | $19,240|
-| GST %        |  |  10  | $  1,924|
-| Total (inc gst)        |  |    | $21,164 |
-
+| Software Architect, Smart Contract Developer                 | 2 |
+| Technical Lead, Senior Developer                             | 2 |
+| Business Analyst                                             | 1 |
+| Full Stack Developer                                         | 10 |
+| Developer                                                    | 2 |
+| Tester, testing acceptance and quality control               | 2 |  
 
 # Notes
 
 1. All prices are in AUD and are ex-GST except where noted.
 2. Workshop date to be confirmed on receipt of initial payment ($750).
-3. Further proposal for production and deposit of $3000 to be made with Workshop Report.
+3. Further proposal for production and deposit of $3,000 to be made with Workshop Report.
 4. Final payment to be invoiced on handover and acceptance.
 5. BTC or ETH payments can be arranged at an agreed AUD rate.
-
-
