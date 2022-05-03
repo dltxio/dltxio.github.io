@@ -22,9 +22,13 @@ Our default key server is keys.openpgp.org.  Navigate to https://keys.openpgp.or
 
 ## Add private key to Bitwarden
 
+The private key should be added to bitwarden.
 
 ## Using Canary
 
 
 ## Using MacMail
 
+## GitHub commits
+
+See https://github.com/dltxio/wiki/blob/main/GPG.md
