@@ -12,7 +12,7 @@
 
 # The Mesh
 
-• Collectively we have over 30-years software engineering experience. Check out the Mesh on LinkedIn.
+• Collectively we have extensive software engineering experience. Check out the Mesh on LinkedIn.
 
 # The Tech
 
