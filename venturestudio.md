@@ -12,6 +12,6 @@ Assuming there is a mutual appetite to explore a POC or MVP, the next step is a 
 As an artifact of Block 1, a proposal containing an estimate of effort and a summary of opportunity and prospective solution will be provided. The proposal may also explore possibilities for discounts and/or equity-based participation, based on the conversations thus far.  Equity participation can vary between 0% to 49% dependant on an evaluation of the opportunity and the perceived ability of the founders to execute commercially.
 
 ## Block 3
-The build.  A typical MVP/POC projects cost $10,000 to $50,000 plus GST.  A summary of DLTx's methodology and values can be found at https://github.com/dltxio/dltxio.github.io/blob/master/how.md
+The build.  A typical MVP/POC project costs $25,000 to $100,000 plus GST.  A summary of DLTx's methodology and values can be found at https://github.com/dltxio/dltxio.github.io/blob/master/how.md
 
 Standard Terms and Conditions : https://github.com/dltxio/dltxio.github.io/blob/master/terms.md
