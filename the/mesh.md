@@ -31,14 +31,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDbyjs0UIM0giLCHDfAeCqgpcCo7op0s23bX7PwzdH
 
 PGP Public Key: `./pgp/lucas@dltx.io.asc`
 
-## Alex Xiang
-
-- Github: xiangzhe0812
-
-```text
-ssh-rsa ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCXBM7VUF4TT3vqeyqy1OQar9d3J8zBmHClCXYKTQBi9UBnX3EFc/D69rMSQvRivmRQd2ue3nL0Y0ZWLLZJN2daN3Y+u7sY73JAo5/5xiIiSxx9QHdQWrSejHquqUOm3LiaRByP+3LXoK0jWeaDSM7m9OIGPqnQqllEj+YLlb+ESMNAydR98RxGdKm/7L4At2GozPwqUatsfU4PZq0gmTD+fOfWnzwCCEj/kv8JO1If4duIx99/fnAuavfhLZ9pp95Mx8iXd9pQJjGQhE1UuOTpDbfkheZEWPNAqgwTG8pvDJVejuB9HonsR29aulOna3l6O0i1nB9vnkiJ/5ISnqLuyXxq8E62fH7VX3gQW0oFNukTmiP3IfaJIe7cq8Zc4S6zlJ7uUVdwWOgUD2R54k2TJPrI7sL6uoRhXpo7BG66B3TZL4m0OPyo6mYsz4JXtOLyN4nXWmT5W9dftSMCRsF0pkqaeWvkJ7+XGuegOIktt3XSTxoo7xZuF3xIMXKVrxc= zhe@s-MacBook-Pro
-```
-
 ## Kris Randall
 
 - Github: krisrandall
