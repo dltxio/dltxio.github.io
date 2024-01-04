@@ -1,6 +1,6 @@
 ## Bio for Lucas
 
-![lucas-cullen-square](https://user-images.githubusercontent.com/8411406/120589714-9d5c6900-c47c-11eb-99e0-47ddd4b8f8a7.jpg)
+![lucas-cullen-square]([https://github.com/dltxio/dltxio.github.io/blob/master/images/The-Mesh/Lucas-Cullen.jpg])
 
 Lucas has a background in Mathematics from QUT and has been a professional software developer for over 15 years, experienced in a wide range of programming languages and industries including banking. In March 2013 he started the Brisbane Bitcoin and Blockchain meetups with nearly 3000 members. 
 
