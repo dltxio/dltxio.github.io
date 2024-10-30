@@ -6,6 +6,6 @@ Lucas has a background in Mathematics from QUT and has been a professional softw
 
 As a former ConsenSys employee, he has worked on a number of large blockchain projects including "Project Ubin" with the Singapore Monetary Authority and "Project i2i" with the Union Bank and Virtue Poker.
 
-He is now founder and Visonary at DLTx labs, a Brisbane Web3 Venture stuido who take blockchian ideas to production.
+He is now founder and Visonary at DLTx labs, a Brisbane Web3 Venture stuido who take blockchain ideas to production.
 
 lucas@dltx.io
